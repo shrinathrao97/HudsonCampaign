@@ -11,6 +11,8 @@ int command = input('Enter your command: ')
 
 
 def critSneak():
+hello
+
 
 
 
