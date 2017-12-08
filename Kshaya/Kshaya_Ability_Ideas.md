@@ -13,7 +13,7 @@
 
 **Ideas from Diablo:**
 - Draw from the void: Marking an enemy with a sleight of hand check will place a shadowy mark on the enemy. Damaging this enemy will heal the damager.
-- Shadow Roll...Thing: A dodge roll (bonus action) that will throw void daggers (thing conjure dagger from skyrim) at up to 2 enemies. The roll travels through the void and comes out 10ft out. Daggers are throw at beggining of the roll. 
+- Shadow Roll: A dodge roll (bonus action) that will throw void daggers (thing conjure dagger from skyrim) at up to 2 enemies. The roll travels through the void and comes out 10ft out. Daggers are throw at beggining of the roll. 
 	- Maybe warp daggers at a higher level???
 
 **Ideas from WoW:**
