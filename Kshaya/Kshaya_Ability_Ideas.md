@@ -1,6 +1,6 @@
-***
+---
 # Ability Ideas!
-***
+---
 
 ### Possible Combat Based Mechanics
 

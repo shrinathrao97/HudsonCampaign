@@ -1,6 +1,6 @@
-***
+---
 # Shrinath Campaign Notes
-***
+---
 
 ## Season 3 Notes:
 
