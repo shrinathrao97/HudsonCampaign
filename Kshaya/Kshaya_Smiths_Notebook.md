@@ -1,4 +1,3 @@
-
 ---
 # Blacksmith's Notebook
 ---
@@ -24,6 +23,6 @@
 
 ### Ideas
 
-* **Eaglor Wing Armor:** Eaglor has a 15 wing span, with runic controllable material for eaglor, I could potentially graft armor on eaglors wings to make him a forward facing sheild. The risk of course would be that his front is exposed but with training, eaglor could protect himself with an armor of runic material. Tl;Dr Wings get armor so he can sheild people behind him.
+* **Eaglor Wing Armor:** Eaglor has a 15 wing span, with runic controllable material for eaglor, I could potentially graft armor on eaglors wings to make him a forward facing or rear facing sheild. The risk of course would be that his front / back is exposed but with training, eaglor could protect himself with an armor of runic material. Tl;Dr Wings get armor so he can shield people behind him.
 
 * **Snake Injection Daggers:** Using the snake fang daggers, I should really come up with a more appropriate name, I can hollow the natural bone out where the poison would normally flow to insert my own poison in. A simple pressure based mechanism should suffice (think oak island riddle), would let me inject poison of my choice. I could even inject oxygen into tacticle areas as well to induce bends (think kneecaps and joints), which is what divers et when they come up too faster because there are oxygen/air bubbles building up into their joints that explode whe expanding.
