@@ -1,7 +1,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Character Name: Kshaya							Class & Level: Rogue			Background: Charlatan 			Player Name: Shrinath Rao
 
-									Race: Earth Genasi			Alignment: Chaotic Neutral		Experience: 6500
+									Race: Earth Genasi			Alignment: Chaotic Neutral		Level: 7
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 QUICK NOTES:
@@ -14,13 +14,12 @@ QUICK NOTES:
 
 
 
-
-
 	   	STATS			 						Armor Class: 13		Initiative: +2		Speed: 30ft
 	     -----------
 
 Proficiency Bonus: 	 	3									      Hit Point Max:  38
-Inspiration: 		 	1   									      Hit Point Curr: 28 
+Inspiration: 		 	1   									      Hit Point Curr: 38 
+
 
 
 Strength:		       1 | 13
@@ -135,7 +134,6 @@ x Scimitar                      x1
 - Intricate Dagger
 - Thundering +1 Scimitar
 x Black Smithing Tools
-- Eaglor's Void Mask
 - Unmovable Rod
 - Sending Stone
 
@@ -145,8 +143,9 @@ FEATURES AND TRAITS:
 - Earth Walk (All Terrain Movement)
 - Pass W/o Trace (Cost spell cast mod, 1nce per long rest): X
 - False Identity
-- Sneak Attack (Extra 3d6 if advantage)
+- Sneak Attack (Extra 4d6 if advantage)
 - Theives Cant
 - Savage Attacker 
 - Cunning Action (Bonus Action)
-- Faded Step Uses: - O O O 
+- Faded Step Uses: - O O O O
+- Evasion: Take 0 damage if you pass saving throw to half damage, take 1/2 if fail
