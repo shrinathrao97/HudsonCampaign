@@ -30,7 +30,7 @@
 ### Techniques
 * **Ansol's Veff Indents:** Ansol used his shoulders and his entire body weight to push a hammer into the edge of a blade rather than smacking it into the edge making perfect periodic indents creating a wave like patter on the blade. This not only helps with the peircing and slashing potential due to the ripping nature of thick-shallow edges but also gives the blade a very premium and sharp look 
 
-###Ethereal Tests: Material Science Tests!
+### Ethereal Tests: Material Science Tests!
 * **Leather Armor:** ?
 * **Ball Bearing:** Normal
 * **Medallion:** Normal
