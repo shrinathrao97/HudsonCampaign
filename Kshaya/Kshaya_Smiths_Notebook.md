@@ -18,6 +18,7 @@
 
 * **Snake Fang Dagger x2:** After learning a little from Ansol, I learned that these early protoypes could potentially evolve into a full fledged weapon of destruction. While these current blades aren't tanged properly granting them plenty of structural integrity issues, Ansol did like the way I grafted the actual fang. Post this Ansol said that if I full tanged it, I could use the daggers as injection mechanisms to inject lethal poison.
 
+* 	
 
 ### Ideas
 

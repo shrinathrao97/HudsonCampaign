@@ -40,10 +40,8 @@ Dexterity:	 	       2 | 15										     WEAPONS
 											
 Contitution: 	       	      0 | 11						Magic S.Sword:	    Can cut through pretty much anything, doesn't need sharpening								
 	Saving Throws:   	0						Blink Dagger/Ring : Can teleport to the dagger from the ring every 6s - range is 200ft
-										Thund Sci.+1: 	    Can be Thundering Damage/Concussive Damage. +1 Scimitar rules apply 
-
-
-
+										Thund Sci.+1: 	    Can be Thundering Damage/Concussive Damage. +1 Scimitar rules apply
+										S.Sword of Memory Stealing:	
 Intelligence: 	       	      0 | 10
 	Saving Throws:   	3
 	Arcana: 	 	0
@@ -96,6 +94,7 @@ EQUIPMENT AND CHARACTER NOTES:
 
 - GOLD:  5p 14g 9s
 
+- Bonaparte's Letter
 - Leather Armor                              
 x 2 Daggers
 - Theives tools
@@ -137,6 +136,8 @@ x Black Smithing Tools
 - Sending Stone
 - Portable Anvil
 - Smithing Tools
+- Rapier OF
+- Black Blade OF
 
 FEATURES AND TRAITS:
 --------------------
@@ -148,7 +149,14 @@ FEATURES AND TRAITS:
 - Theives Cant
 - Savage Attacker 
 - Cunning Action (Bonus Action)
-- Faded Step Uses: - O O O O
+- Faded Step Uses: - X X X X
 - Proficiency in creating basic weapons
 - Faded Perception: Can see into the Border and Mid Ethereal for 1 + Wisdom Modifier, also can cast See Invisibility
-- Evasion: Take 0 damage if you pass saving throw to half damage, take 1/2 if fail
+- Evasion: Take 0 damage if you pass saving throw to half damage, take 1/2 if fai
+
+
+
+
+- S.Sword of Memory Stealing: When you roll a 20 with this weapon the target takes extra 2d6 psychic damage. When you get a crit or you kill a target with this weapon you may specify a type of memory through either general description or by asking a question of the target. The player then has a vision with the memory. If the target doesn't have a matching, you witness each other's short term memories extrememly vividly and cannot attack the each other for that turn. Must succeed DC 15 wisdom, or take 2d6 psychic. Also have disadvangate on deception, and intimidation and have advantage on persuation
+
+
