@@ -18,7 +18,10 @@
 
 * **Snake Fang Dagger x2:** After learning a little from Ansol, I learned that these early protoypes could potentially evolve into a full fledged weapon of destruction. While these current blades aren't tanged properly granting them plenty of structural integrity issues, Ansol did like the way I grafted the actual fang. Post this Ansol said that if I full tanged it, I could use the daggers as injection mechanisms to inject lethal poison.
 
-* 	
+* **S.Sword of Memory Stealing:** When you roll a 20 with this weapon the target takes extra 2d6 psychic damage. When you get a crit or you kill a target with this weapon you may specify a type of memory through either general description or by asking a question of the target. The player then has a vision with the memory. If the target doesn't have a matching, you witness each other's short term memories extrememly vividly and cannot attack the each other for that turn. Must succeed DC 15 wisdom, or take 2d6 psychic. Also have disadvangate on deception, and intimidation and have advantage on persuation
+
+
+
 
 ### Ideas
 
