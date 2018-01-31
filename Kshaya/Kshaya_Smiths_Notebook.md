@@ -18,8 +18,7 @@
 
 * **Snake Fang Dagger x2:** After learning a little from Ansol, I learned that these early protoypes could potentially evolve into a full fledged weapon of destruction. While these current blades aren't tanged properly granting them plenty of structural integrity issues, Ansol did like the way I grafted the actual fang. Post this Ansol said that if I full tanged it, I could use the daggers as injection mechanisms to inject lethal poison.
 
-* **S.Sword of Memory Stealing:** When you roll a 20 with this weapon the target takes extra 2d6 psychic damage. When you get a crit or you kill a target with this weapon you may specify a type of memory through either general description or by asking a question of the target. The player then has a vision with the memory. If the target doesn't have a matching, you witness each other's short term memories extrememly vividly and cannot attack the each other for that turn. Must succeed DC 15 wisdom, or take 2d6 psychic. Also have disadvangate on deception, and intimidation and have advantage on persuation
-
+* **S.Sword of Memory Stealing / Smarana:** When you roll a 20 with this weapon the target takes extra 2d6 psychic damage. When you get a crit or you kill a target with this weapon you may specify a type of memory through either general description or by asking a question of the target. The player then has a vision with the memory. If the target doesn't have a matching, you witness each other's short term memories extrememly vividly and cannot attack the each other for that turn. Must succeed DC 15 wisdom, or take 2d6 psychic. Also have disadvantage on deception, and intimidation and have advantage on persuation.n
 
 
 
@@ -31,11 +30,14 @@
 
 * **Ethereal Short Sword:** Well now that Kshaya knows that his phasing in and out of reality was really him moving into and out of the border ethereal, how are different materials affected to the border ethereal? How does weaponry affected to 
 
+* **Cape of the Wind Cutter:** A modifed Cape of Billowing that flutters daggers on the spell, the uneven fluttering can be cued to shoot daggers behind a player. Alternatively, based on the application of removal of centripetal force, daggers can eject and slice and retract.
+
 ### Techniques
 * **Ansol's Veff Indents:** Ansol used his shoulders and his entire body weight to push a hammer into the edge of a blade rather than smacking it into the edge making perfect periodic indents creating a wave like patter on the blade. This not only helps with the peircing and slashing potential due to the ripping nature of thick-shallow edges but also gives the blade a very premium and sharp look 
 
-### Ethereal Tests: Material Science Tests!
 
+
+### Ethereal Tests: Material Science Tests!
 * **Leather Armor:** ?
 * **Ball Bearing:** Normal
 * **Medallion:** Normal
