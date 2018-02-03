@@ -5,7 +5,7 @@
 ### Possible Combat Based Mechanics
 
 **Ideas from Destiny:**
-- Shadow Shot: An ariel bow shot that tethers all enemies within a 10 ft radius. Hitting tethered enemies will either. Both will require balancing to this campaign
+- Shadow Shot: An arial bow shot that tethers all enemies within a 10 ft radius. Hitting tethered enemies will either. Both will require balancing to this campaign
 	-Regen Health (will compensate for a lack of health in this class)
 	-Do Bonus Damage (will further the idea of a glass cannon)
 
@@ -22,13 +22,13 @@
 
 ### Possible Non-Comabat Based Mechanics
 
-- **Order Speak:**
+- **Order Speak: ACTIVE**
 	- Need to discuss ASAP, a language that is spoken from the Order to royalty, only known by the two parties mentioned
 
 - **Forge Poison:**
 	- Requires furthering for blacksmithing and some knowledge from our fine feathered friend. The ability to scan the environment and make a usuable blade poison out of things
 
-- **Gauge Armory:**
+- **Gauge Armory: ACTIVE**
 	- Collect em all sort of mechanic for this campaign. Make notes about seen weapons, with great difficulty and time be able to reproduce them.
 
 - **Forge Personality:**

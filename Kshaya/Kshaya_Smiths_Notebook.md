@@ -42,6 +42,7 @@
 * **Ball Bearing:** Normal
 * **Medallion:** Normal
 * **Mezurashi:** Seemed like the odd sense of gravity didn't affect it, I need to explore!
+* **Smarana:** ?
 * **Vajra:** Seemed like the odd sense of gravity didn't affect it, I need to explore
 * **Qualz Feather Token:** Normal?
 
