@@ -2,6 +2,9 @@
 # Ability Ideas!
 ---
 
+**Shrinath's Links: TableOfContents**
+
+
 ### Possible Combat Based Mechanics
 
 **Ideas from Destiny:**

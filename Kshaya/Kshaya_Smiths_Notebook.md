@@ -2,6 +2,8 @@
 # Blacksmith's Notebook
 ---
 
+**Shrinath's Links: TableOfContents**
+
 
 ### Blades
 

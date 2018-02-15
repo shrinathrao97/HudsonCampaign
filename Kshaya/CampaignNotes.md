@@ -2,7 +2,7 @@
 # Shrinath Campaign Notes
 ---
 
-**Links: TableOfContents**
+**Shrinath's Links: TableOfContents**
 
 ## Season 3 Notes:
 

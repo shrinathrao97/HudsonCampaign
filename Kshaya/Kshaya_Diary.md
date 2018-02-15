@@ -2,6 +2,8 @@
 # Kshaya's Diary
 ---
 
+**Shrinath's Links: TableOfContents**
+
 ## Prologue:
 I was born in Mythalias. It's a far off country from the entirity of the Thrash-Foren affairs of the world. We are a home to a peaceful peoples and an oppulent society - both in terms of wealth and in terms of knowledge. However, every good story has a dark twist. Mythalias is home to the notorious 'Order of the Fang.' We use political assassination as a way to influence the world and lay our mark for what we believe to be the best. Our valiant mission aside. 
 
