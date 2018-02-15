@@ -6,3 +6,27 @@ This folder contains all of the information of Kshaya. Preferably use VIM. If yo
 - Kshaya_Faded_Thief_Rogue:   Kshaya's Character Sheet
 - Kshaya_Smith_Notebook:      Recollection of weaponry and armor Kshaya has seen along with ideas 
 - Kshayas_Diary:              Kshaya's Personal Diary 
+- TableOfContents:	      A Table of all of Kshaya's Files, acts like vim hotlinks, all files link to it
+
+Vim Tutorial:
+	- In your terminal, type vim <filename> to open up vim
+	- Vim is a modal editor. Use:
+		- i enters typing mode, a enters insert one char in front and esc exits it and enters command mode
+		- j to move down a line
+		- k to move up a line
+		- h to move left
+		- l to move right
+		- w moves forward a word (2w moves forward 2 words)
+		- b moves back a word (2b moves back 2 words)
+		- gj or gk moves visually down or up a line
+		- d2w deletes two words, dd deletes the line
+		- x deletes the current char, and r replaces current char
+		- / lets you search for specific words or phrases
+		- : enters a typed command mode
+		- :w saves, :wq saves and quits, :q! quits without saving
+	- To use TableOfContents or to jump to a file
+		- Make sure you have your .vimrc file in ~ set up properly
+			- open it up with vim and make sure it has set path=$PWD/**
+		- Put cursor on word that has the filename/path in it
+		- press gf to jump to that file in the same pane, or Ctrl-w + f to jump to it in a split pane 
+		
