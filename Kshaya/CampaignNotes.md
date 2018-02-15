@@ -2,6 +2,8 @@
 # Shrinath Campaign Notes
 ---
 
+**Links: TableOfContents**
+
 ## Season 3 Notes:
 
 **Obelisk Locations:**
