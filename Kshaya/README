@@ -8,7 +8,8 @@ This folder contains all of the information of Kshaya. Preferably use VIM. If yo
 - Kshayas_Diary:              Kshaya's Personal Diary 
 - TableOfContents:	      A Table of all of Kshaya's Files, acts like vim hotlinks, all files link to it
 
-Vim Tutorial:
+A Quick Vim Tutorial:
+	- If you have time, load up a shell and type vimtutor, it took me about 2 hours and I could use vim very well after that
 	- In your terminal, type vim <filename> to open up vim
 	- Vim is a modal editor. Use:
 		- i enters typing mode, a enters insert one char in front and esc exits it and enters command mode
@@ -26,7 +27,7 @@ Vim Tutorial:
 		- :w saves, :wq saves and quits, :q! quits without saving
 	- To use TableOfContents or to jump to a file
 		- Make sure you have your .vimrc file in ~ set up properly
-			- open it up with vim and make sure it has set path=$PWD/**
+			- open it up (or create it if it doesn't exist) with vim and make sure it has set path=$PWD/**
 		- Put cursor on word that has the filename/path in it
 		- press gf to jump to that file in the same pane, or Ctrl-w + f to jump to it in a split pane 
 		

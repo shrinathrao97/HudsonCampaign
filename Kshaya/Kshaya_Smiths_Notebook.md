@@ -35,8 +35,10 @@
 
 * **Cape of the Wind Cutter:** A modifed Cape of Billowing that flutters daggers on the spell, the uneven fluttering can be cued to shoot daggers behind a player. Alternatively, based on the application of removal of centripetal force, daggers can eject and slice and retract.
 
+* **Arrow of White Metal:** A modified arrow where the arrow sits inside of a rifled barrel casing. Castin heat metal will explode the arrow head and send it flying further and faster- can act like a long range missile. (Not mentioning the white hot arrow that is going to impale the enemy)
+
 ### Techniques
-* **Ansol's Veff Indents:** Ansol used his shoulders and his entire body weight to push a hammer into the edge of a blade rather than smacking it into the edge making perfect periodic indents creating a wave like patter on the blade. This not only helps with the peircing and slashing potential due to the ripping nature of thick-shallow edges but also gives the blade a very premium and sharp look 
+* **Ansol's Veff Indents:** Ansol used his shoulders and his entire body weight to push a hammer into the edge of a blade rather than smacking it into the edge making perfect periodic indents creating a wave like patter on the blade. This not only helps with the peircing and slashing potential due to the ripping nature of thick-shallow edges but also gives the blade a very premium and sharp look. 
 
 
 

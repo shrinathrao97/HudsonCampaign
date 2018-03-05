@@ -1,7 +1,6 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Character Name: Kshaya							Class & Level: Rogue			Background: Charlatan			Player Name: Shrinath Rao
-
-
+									
 									Race: Earth Genasi			Alignment: Chaotic Neutral		Level: 7
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -20,7 +19,7 @@ QUICK NOTES:
 	     -----------
 
 Proficiency Bonus: 	 	 3									      Hit Point Max:  38
-Inspiration: 		 	 0   									      Hit Point Curr: 38 
+Inspiration: 		 	 1   									      Hit Point Curr: 38 
 
 
 
@@ -38,7 +37,8 @@ Dexterity:	 	       2 | 15										     WEAPONS
 										S.Bow 	      :		+5		1d6+2P 			Range = 80/320
 										Scimitar      : 	+5		1d6+2S
 										Thun Sci. +1  :         +6              1d6+3S
-											
+									        Steal S.Sword :         +5              1d6+2P							
+
 Contitution: 	       	      0 | 11						Magic S.Sword:	    Can cut through pretty much anything, doesn't need sharpening								
 	Saving Throws:   	0						Blink Dagger/Ring : Can teleport to the dagger from the ring every 6s - range is 200ft
 										Thund Sci.+1: 	    Can be Thundering Damage/Concussive Damage. +1 Scimitar rules apply
@@ -83,9 +83,9 @@ LANGUAGES AND PROFICIENCIES:
 - Thieves Tools/Disguise Kit
 - Forgery Kit
 
-														TRAITS:
-													    --------------
-
+														    TRAITS:
+													 	--------------
+	
 	Personality Traits: Fall in love easily		Ideals: Never run the same con x2	Bonds: A powerful person killed a friend due to a broken promise, No man left behind       Flaws: Convinced other's can't con me
 
 
@@ -93,7 +93,7 @@ LANGUAGES AND PROFICIENCIES:
 EQUIPMENT AND CHARACTER NOTES:
 -----------------------------
 
-- GOLD:  5p 14g 9s
+- GOLD:  5p 14g 5s
 
 - Bonaparte's Letter
 - Leather Armor                              
@@ -134,7 +134,6 @@ x Scimitar                      x1
 - Thundering +1 Scimitar
 x Black Smithing Tools
 - Unmovable Rod
-- Sending Stone
 - Portable Anvil
 - Smithing Tools
 - S.Sword of Memory Stealing
@@ -149,8 +148,8 @@ FEATURES AND TRAITS:
 - Theives Cant
 - Savage Attacker 
 - Cunning Action (Bonus Action)
-- Faded Step Uses: - O O O O
+- Faded Step Uses: - O X X X
 - Proficiency in creating basic weapons
 - Faded Perception: Can see into the Border and Mid Ethereal for 1 + Wisdom Modifier, also can cast See Invisibility
 - Evasion: Take 0 damage if you pass saving throw to half damage, take 1/2 if fail
-
+- Proficiency with Thieves tools and Smithing Tools
