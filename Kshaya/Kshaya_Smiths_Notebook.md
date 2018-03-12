@@ -35,11 +35,12 @@
 
 * **Cape of the Wind Cutter:** A modifed Cape of Billowing that flutters daggers on the spell, the uneven fluttering can be cued to shoot daggers behind a player. Alternatively, based on the application of removal of centripetal force, daggers can eject and slice and retract.
 
-* **Arrow of White Metal:** A modified arrow where the arrow sits inside of a rifled barrel casing. Castin heat metal will explode the arrow head and send it flying further and faster- can act like a long range missile. (Not mentioning the white hot arrow that is going to impale the enemy)
+* **Arrow of White Metal:** A modified arrow where the arrow sits inside of a rifled barrel casing. Casting heat metal will explode the arrow head and send it flying further and faster- can act like a long range missile. (Not mentioning the white hot arrow that is going to impale the enemy)
 
 ### Techniques
 * **Ansol's Veff Indents:** Ansol used his shoulders and his entire body weight to push a hammer into the edge of a blade rather than smacking it into the edge making perfect periodic indents creating a wave like patter on the blade. This not only helps with the peircing and slashing potential due to the ripping nature of thick-shallow edges but also gives the blade a very premium and sharp look. 
 
+* **Drop Forging** A maybe technique that allows the layering of metals on a single blade. This technique more focuses on creating the ingot that might be hammered into the blade rather than the actual pointed/sharp object itself. Thing of blowing bubbles. The first layer (the core) is made thin by dipping a thin frame into a vat of molten metal. The metal sticks the fram much like a bubble blower. Conitunue this process until the desired ingot is achieved. Alternatively you could make an ingot layered with different materials. This allows the blade to be hard and soft (depending on where the materials are) or have different properties from inside to outside). Sharpening them/exposing different layers could have different effects in combat. Remember to start with hard/high boiling point metals and move down the scale so as to not destroy the previous layer. Speed, efficiency of movement and timing might be key.
 
 
 ### Ethereal Tests: Material Science Tests!
