@@ -49,6 +49,16 @@
     * Tricked to enter the gorge by a group of paladins.  
 
 
+### Oscar Jerrial DECEASED
+  * Location: Capital City, Thrash
+  * Race: High Elf
+  * Wife: 
+  * Notes:
+    * Noble from the Southern Continent trying to assure connections between Thrash and Phinaran.
+    * Was assassinated by Quael (Icarus) Sins'kul under contract of the Order of the Fang.
+    * Believed Eaglor to be his assassin due to similar body shapes in the night.
+    * Kshaya convinced him otherwise and Oscar began hunting Quael.  He failed to kill Quael, but remains in the Capital City as a ward against Quael, forever lacking rest until her demise.
+
 ### Oskar Brawnanvil @Josh Prichard
   * Class: Beast Master Ranger 3rd Level.
   * Location: New Island (Prison)
