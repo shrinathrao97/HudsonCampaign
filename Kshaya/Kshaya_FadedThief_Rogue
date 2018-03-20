@@ -7,14 +7,13 @@ Character Name: Kshaya							Class & Level: Rogue			Background: Charlatan			Play
 QUICK NOTES:
 -Shrinath's Links: TableOfContents
 -Kshaya calls Tacos Ocats
-
+-Exhaustion: 0
 
 
 
 	   	STATS			 						Armor Class: 13		Initiative: +2		Speed: 30ft
 	     -----------
-
-Proficiency Bonus: 	 	 3									      Hit Point Max:  19
+Proficiency Bonus: 	 	 3									      Hit Point Max:  13 
 Inspiration: 		 	 1   									      Hit Point Curr: 38 
 
 
@@ -36,7 +35,7 @@ Dexterity:	 	       2 | 15										     WEAPONS
 									        Steal S.Sword :         +5              1d6+2P							
 
 Contitution: 	       	      0 | 11						Magic S.Sword:	    Can cut through pretty much anything, doesn't need sharpening								
-	Saving Throws:   	0						Blink Dagger/Ring : Can teleport to the dagger from the ring every 6s - range is 200ft
+	Saving Throws:   	1						Blink Dagger/Ring : Can teleport to the dagger from the ring every 6s - range is 200ft
 										Thund Sci.+1: 	    Can be Thundering Damage/Concussive Damage. +1 Scimitar rules apply
 										S.Sword of Memory Stealing: Ask a question on kill, but use it sparingly, it's a double edged sword. See: Kshaya_Smiths_Notebook.md 
 Intelligence: 	       	      0 | 10
@@ -91,6 +90,7 @@ EQUIPMENT AND CHARACTER NOTES:
 
 - GOLD:  5p 14g 5s
 
+- Farlagnan's Box (see: Kshaya_Smiths_Notebook.md)
 - Bonaparte's Letter
 - Leather Armor                              
 x 2 Daggers
@@ -146,7 +146,7 @@ FEATURES AND TRAITS:
 - Theives Cant
 - Savage Attacker 
 - Cunning Action (Bonus Action)
-- Faded Step Uses: - 0 0 X X
+- Faded Step Uses: - 0 0 0 0
 - Proficiency in creating basic weapons
 - Faded Perception: Can see into the Border and Mid Ethereal for 1 + Wisdom Modifier, also can cast See Invisibility
 - Evasion: Take 0 damage if you pass saving throw to half damage, take 1/2 if fail
