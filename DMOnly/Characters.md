@@ -90,3 +90,9 @@
   * Fhoran was in a financial crisis at this point after a crippling plague, causing the attack to be very poor timed, and rumor has it that spies in Gemashk found out that the land has very difficult lands to cultivate, and it was not until decades later that the lands would be found as rich in gems.  As such, they surrendered to cut their losses, or so the rumor goes.
   * With the land under control, and popularity at an all time high, King Thrash of Thrash would lead to the discovery of the richest minerals and trade routes in the country, create treaties with neighboring groups and kingdoms, though leaving Fhoran out of most of these treaties.
   * He would die in 914 during a downturn in the Thrash economy that his son, Kishinel 1st**, would be left to deal with in the decades to come. 
+
+
+## U : Unimportant Headmaster
+* Male, Forged
+  * Location: Unimportant Monestary
+  * Appearance: Gold linen robes with matching gloves and shoes; ; light grey mask with cheek bone indents.
