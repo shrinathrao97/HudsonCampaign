@@ -27,11 +27,10 @@ while cont == "y":
 	#Exit condition	
 	if keepGoing == "q":
 		cont = "q"	
-
+		break
 	#Clear the running total and continue	
 	if keepGoing == "c":
 		total = 0
-
 	#Gets xdx values
 	numDice = input("Enter number of dice: ")
 	numSide = input("Enter number of sides: ")

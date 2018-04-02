@@ -42,6 +42,8 @@
 
 * **Layer Forging** An untested technique that allows the layering of metals on a single blade. This technique more focuses on creating the ingot that might be hammered into the blade rather than the actual pointed/sharp object itself. Thing of blowing bubbles. The first layer (the core) is made thin by dipping a thin frame into a vat of molten metal. The metal sticks the fram much like a bubble blower. Conitunue this process until the desired ingot is achieved. Alternatively you could make an ingot layered with different materials. This allows the blade to be hard and soft (depending on where the materials are) or have different properties from inside to outside). Sharpening them/exposing different layers could have different effects in combat. Remember to start with hard/high boiling point metals and move down the scale so as to not destroy the previous layer. Speed, efficiency of movement and timing might be key.
 
+### Other
+* **Farlagnan's Box** A box given to Kshaya by Farlagnan after the events of the Unimportant trial. The box enhances Kshaya's inherent capabilities to let him use much higher tier spells. He has 8 uses of Dimension Door or Teleportaion Circle or Teleport. The middle both times is plane shift.
 
 ### Ethereal Tests: Material Science Tests!
 * **Leather Armor:** ?
@@ -52,3 +54,7 @@
 * **Vajra:** Seemed like the odd sense of gravity didn't affect it, I need to explore
 * **Qualz Feather Token:** Normal?
 
+### Box Tracker
+\- \- \-
+\- \- \-
+\- \- \-
