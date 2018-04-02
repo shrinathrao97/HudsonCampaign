@@ -32,9 +32,13 @@
   * Awoke with U, making U innately trust him.
   * Has told no one that he has this ability, but he can see through the eyes of any Forged within 500ft of him, and can see through any of the masks he makes.
   * Creates the current Masks for the clan.
-### Pelican
-  * While a lasting member of the board, Pelican is not proven to be the most impressive member of the board.
-  
+### Henet
+  * Mask: Pelican
+  * While a lasting member of the board, Pelican is not proven to be the most impressive member of the board.  He is, however, good at keeping things in order.  Pelican handles the organization
+### Pan
+  * Mask: Black Goat
+  * Head artisan and head teacher of students within the Unimportants.  Creates the bases of the masks before being inchanted by Unknown.  Has gotten so skilled at transforming with the masks that he can remain in his mixed form for long periods of time and his form is so realistic where skin shows that he doesn't show inconsistencies due to their mechanical nature.
+
 ---
 
 ### Crane
@@ -75,3 +79,13 @@ Spider:
 Mandibles
 Legs
 Venom
+
+
+## Masks
+- Crow
+- White Coral Reef Snake
+- Air Elemental
+
+- Rattlesnake
+- Earth Elemental
+- Blink Dog
