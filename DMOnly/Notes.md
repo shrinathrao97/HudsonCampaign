@@ -18,7 +18,7 @@
   * She, in her love of nature, became a druid as part of her training, and decided that while her natural form would remain ruined, she would instead take the form of a Crow as her new natural form.  She remains in this form at all times possible, saving her true form for only the most important tasks or the most intimate times with her daughter.
   * She would choose not to speak to others out of respect for the law of her people, but she would refuse this wish when it came to raising her daughter.  She believes that her daughter was unjustly punished, and punishing her more by stunting her education by silencing the mother was beyond what Aena could respect.  She may write, but her voice is only for her children, who she loves despite their flaws.  
   * Wears a Crow Mask, though it is rarely seen due to remaining in the Crow form for long enough for it not to matter.
-### Jade Viro
+### Jade (Jade) Viro
   * The newest member of the Board, replacing the missing Hera, who never returned from a mission to the Plane of Water earlier that month.  In fact, she was instated only a month priar to the party's arrival.
   * She is rough around the edges, but she means well, and her growth is absolutely notable, being a natural at most skills, aside from her surprising non-chelant personality.
   * An Unimportant of action, she is often off in the field helping with any important mission.
@@ -53,11 +53,11 @@
 ### Ocelot
 * With Bonaparte for his trial.
 
-### Otter
+### Dratsie (Otter)
 * Understanding; tries to be understanding.
 * Let Kshaya and Eaglor into the main vaults of the Unimportant Temple.
 
-### Pelican
+### Henet (Pelican)
 * Works in the Vaults.
 * Knocked unconscious after the obilesk exploded out the Beastwilds.
 
@@ -65,27 +65,14 @@
 * Velociraptor as Eaglor's pal for now?
 
 ### Loot:
-Steggo Spike
-
-TRex Fangs
-TRed Hide
-
-Tiger:
-Claws
-Fangs
-Pelt
-
-Spider:
-Mandibles
-Legs
-Venom
-
 
 ## Masks
 - Crow
 - White Coral Reef Snake
-- Air Elemental
+- =Spark=
+- Gigantic Ocean Manta Ray
 
 - Rattlesnake
-- Earth Elemental
+- Mole
 - Blink Dog
+- Black Mamba
