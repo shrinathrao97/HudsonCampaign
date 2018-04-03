@@ -12,15 +12,16 @@ QUICK NOTES:
 
 	   	STATS			 						Armor Class: 13		Initiative: +2		Speed: 30ft
 	     -----------
-Proficiency Bonus: 	 	3									      Hit Point Max:  13 
-Inspiration: 		 	1   									      Hit Point Curr: 38 
-Exhaustion:			0
-
+Proficiency Bonus: 	 	 3									      Hit Point Max:  43 
+Inspiration: 		 	 1   									      Hit Point Curr: 43 
+Exhaustion:			 0									      Hit Dice Total: 8d8
+Success:			 -
+Failure:			 -
+Curr Hit Dice:			 7	
 
 Strength:		       1 | 13
 	Saving Throws:  	 1
-	*Athletics: 	 	 4							Hit Dice Total: 6d8		Success: 		Failure:
-
+	*Athletics: 	 	 4						
 
 
 Dexterity:	 	       2 | 15										     WEAPONS
@@ -89,6 +90,7 @@ EQUIPMENT AND CHARACTER NOTES:
 
 - GOLD:  5p 14g 5s
 
+- Black Mamba Mask
 - Stegosaurus Spikes      	x3
 - Spider Venom 			x3
 - Tiger Pelt   			x1
