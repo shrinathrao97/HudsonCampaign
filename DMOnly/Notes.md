@@ -64,6 +64,20 @@
 ### Notes:
 * Velociraptor as Eaglor's pal for now?
 
+* Eaglor's Armor Set
+* Bonaparte's Axe
+  * Layered Smelting and Sharpening
+    * Ridiculously hard
+    * Copper
+    * Lead
+    * Last Layer is Runic
+    * Steggosaurus Spikes
+    * T-Rex Teeth
+* Use Faded Step every day to speak with the dead
+    
+* Shield and Axe training
+* Spend time with Raptor
+
 ### Loot:
 
 ## Masks
@@ -75,4 +89,4 @@
 - Rattlesnake
 - Mole
 - Blink Dog
-- Black Mamba
+- =Black Mamba=
