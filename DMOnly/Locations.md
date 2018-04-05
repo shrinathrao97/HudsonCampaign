@@ -1,1 +1,6 @@
-Init
+## Caerholme
+  * Located on the Southern Continent, notably accessible from the sea by the famous ports of Jid Ali to the North East, and the far smaller port town of Ezlet to the North.
+  * Caerholme finds a happy medium both geographically and philosphically between the dangerously close-minded Elvan powerhouse country of Phinaran to the West, and the dangerously open-minded bandit-filled wastelands of the Grey Dunes, and somewhat the Cast Lands, to the East and South respectively.  Somehow settling on brusque, rich, and dull to passers-by.
+  * Caerholme is a city-state, a remnant of the days of rebellion in Phinaran that caused the once-village to be given as a consolation prize to rebels who refused to quit.  The gift ended the short “war”, and further consolodater Phinaran’s elven heritage as detractors simply left for the decidedly small “free-lands” of Caerholme.  
+  * Caerholme would eventually grow its area of influence through smart usage of their myriad forests and access to Fey exports, putting them on the map as a freat
+  * Despite its location, Caerholme slides closer to the elves in terms of dispostion.  Caerholme is a town of nobles, 
