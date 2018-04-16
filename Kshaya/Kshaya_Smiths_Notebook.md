@@ -25,6 +25,19 @@
 
 * **Farlaghnan's Box:** Squares start blank, can then turn one to circle to cast dimestion door or teleporation circle. From circle to x then can cast teleport then it locks in place. If turn the center to x or o can then cast plane shiftmaterial requirements still exist. Only be used by me.
 
+* **Living Mask, Mamba:**  Requires attunement. Counts as an arcane focus if you wish when worn. 
+  * Semi Shift: You synch with the mask as a bonus action, it lasts for a minute and you can take another bonus action to deactivate it. You start to take on aspects of your creature. Available only once per short rest or long rest. When you shift an immensly satisfying chill runs takes you like relief from a long oppressive heat as your blood runs cold. Your eyes become black with bits of deep browns as you face slightly stretches outward. You feel your form slightly lengthen as your toungue splits and lengthes as well while your nose presses down somewhat. While shifted you gain the following traits:
+     * Resistant to poison damage 
+     * Advantage on initiative rolls
+     * While dashing you move 15ft extra
+     * You can use a bonus action to apply to a single weapon or ammunition. The venom lasts for an hour before it wears off. If it hits an enemy/afflicts it the target makes a CON save of DC 8+Proficiency+CON or be under the effects of ray of enfeeblment repeating the save at the end of its turns. If you strike a enfeebled target with venom them must make another CON save or be poisoned. If you strike a poisoned target with venom, then they make the same check or become stunned for one round and loose all venom effects. 
+
+* **Living Mask, Spark:** Requires attunement. Counts as an arcane focus if you wish when worn. Now know the cantrip shocking grasp. When you come withing 30ft of a creature that has died within last one minute, Mask draws in the last soul remenant of the drifting creature, make a charsima saving throw with DC on creatures challenge rating or level, or it's 10+CR if creature resists. On success the mask collects the unconcious remenant, amount of remenants has it's limits. 
+  * Semi Shift: You synch with the mask as a bonus action, it lasts for a minute and you can take another bonus action to deactivate it. You start to take on aspects of your creature. Available only once per short rest or long rest. In this form, your mask seals over your face as your form glistens with other worldly shimmering, your physcial form remains unchanged but is viusually emminating a silvery purple smoke or steam. While in this form you have the following aspects:
+    * You become resistant to lightning damage
+    * You have a flying hover speed of 5ft minimum
+    * Shocking Graps deals extra damage equal to your current remanent count
+
 ### Ideas
 
 * **Eaglor Wing Armor:** Eaglor has a 15 wing span, with runic controllable material for eaglor, I could potentially graft armor on eaglors wings to make him a forward facing or rear facing sheild. The risk of course would be that his front / back is exposed but with training, eaglor could protect himself with an armor of runic material. TL;DR Wings get armor so he can shield people behind him.
@@ -40,7 +53,7 @@
 ### Techniques
 * **Ansol's Veff Indents:** Ansol used his shoulders and his entire body weight to push a hammer into the edge of a blade rather than smacking it into the edge making perfect periodic indents creating a wave like patter on the blade. This not only helps with the peircing and slashing potential due to the ripping nature of thick-shallow edges but also gives the blade a very premium and sharp look. 
 
-* **Layer Forging** An untested technique that allows the layering of metals on a single blade. This technique more focuses on creating the ingot that might be hammered into the blade rather than the actual pointed/sharp object itself. Thing of blowing bubbles. The first layer (the core) is made thin by dipping a thin frame into a vat of molten metal. The metal sticks the fram much like a bubble blower. Conitunue this process until the desired ingot is achieved. Alternatively you could make an ingot layered with different materials. This allows the blade to be hard and soft (depending on where the materials are) or have different properties from inside to outside). Sharpening them/exposing different layers could have different effects in combat. Remember to start with hard/high boiling point metals and move down the scale so as to not destroy the previous layer. Speed, efficiency of movement and timing might be key.
+* **Layer Forging:** An untested technique that allows the layering of metals on a single blade. This technique more focuses on creating the ingot that might be hammered into the blade rather than the actual pointed/sharp object itself. Thing of blowing bubbles. The first layer (the core) is made thin by dipping a thin frame into a vat of molten metal. The metal sticks the fram much like a bubble blower. Conitunue this process until the desired ingot is achieved. Alternatively you could make an ingot layered with different materials. This allows the blade to be hard and soft (depending on where the materials are) or have different properties from inside to outside). Sharpening them/exposing different layers could have different effects in combat. Remember to start with hard/high boiling point metals and move down the scale so as to not destroy the previous layer. Speed, efficiency of movement and timing might be key.
 
 ### Ethereal Tests: Material Science Tests!
 * **Leather Armor:** ?

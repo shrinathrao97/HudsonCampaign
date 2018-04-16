@@ -8,17 +8,22 @@
 
 **Obelisk Locations:**
 - Narial Center Ring Garden
+	- Harder to confim but can hear about it "garden has beautiful jewel"
 - Island South of Thrash
 	- Might be misunderstanding
+	- A crater there, pretty confident what that might mean, no clue how recent
 - Forest in Thrash
-	- Shot in the dark
+	- Unimportant Village / Town
 - Border Village with issues
+	- Scouts sent, weird happenings nobody returned
 - Islands in General
+	- Can't lock location large area, there at least was
 - City of Magic
 	- Southern Continent
 	- Keeps moving randomly
-- Grey Desserts
-	- Southern Continent 
+	- While they can't find current location, they do think if need be force an access point in it
+- Grey Dunes
+	- Temple of Obelisks? A little Odd. 
 
 
 ## Season 4 Notes:
