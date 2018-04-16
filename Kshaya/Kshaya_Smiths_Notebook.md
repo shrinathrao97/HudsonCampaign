@@ -25,14 +25,15 @@
 
 * **Farlaghnan's Box:** Squares start blank, can then turn one to circle to cast dimestion door or teleporation circle. From circle to x then can cast teleport then it locks in place. If turn the center to x or o can then cast plane shiftmaterial requirements still exist. Only be used by me.
 
-* **Living Mask, Mamba:**  Requires attunement. Counts as an arcane focus if you wish when worn. 
+* **Living Mask, Mamba:**  Requires attunement. Counts as an arcane focus if you wish when worn. Greyish dark, slick looking mask. Although it doesn't stick out and protrude for obvious reasons, it still the predatory nature and features a mamba. The eyes are deep black and are very imposing.  Made with very high craftsmanship. 
   * __Semi Shift:__ You synch with the mask as a bonus action, it lasts for a minute and you can take another bonus action to deactivate it. You start to take on aspects of your creature. Available only once per short rest or long rest. When you shift an immensly satisfying chill runs takes you like relief from a long oppressive heat as your blood runs cold. Your eyes become black with bits of deep browns as you face slightly stretches outward. You feel your form slightly lengthen as your toungue splits and lengthes as well while your nose presses down somewhat. While shifted you gain the following traits:
-     * Resistant to poison damage 
-     * Advantage on initiative rolls
-     * While dashing you move 15ft extra
-     * You can use a bonus action to apply to a single weapon or ammunition. The venom lasts for an hour before it wears off. If it hits an enemy/afflicts it the target makes a CON save of DC 8+Proficiency+CON or be under the effects of ray of enfeeblment repeating the save at the end of its turns. If you strike a enfeebled target with venom them must make another CON save or be poisoned. If you strike a poisoned target with venom, then they make the same check or become stunned for one round and loose all venom effects. 
+    * Resistant to poison damage 
+    * Advantage on initiative rolls
+    * While dashing you move 15ft extra
+    * You can use a bonus action to apply to a single weapon or ammunition. The venom lasts for an hour before it wears off. If it hits an enemy/afflicts it the target makes a CON save of DC 8+Proficiency+CON or be under the effects of ray of enfeeblment repeating the save at the end of its turns. If you strike a enfeebled target with venom them must make another CON save or be poisoned. If you strike a poisoned target with venom, then they make the same check or become stunned for one round and loose all venom effects. 
 
-* **Living Mask, Spark:** Requires attunement. Counts as an arcane focus if you wish when worn. Now know the cantrip shocking grasp. When you come withing 30ft of a creature that has died within last one minute, Mask draws in the last soul remenant of the drifting creature, make a charsima saving throw with DC on creatures challenge rating or level, or it's 10+CR if creature resists. On success the mask collects the unconcious remenant, amount of remenants has it's limits. 
+* **Living Mask, Spark:** Requires attunement. Counts as an arcane focus if you wish when worn. A shifting orb like mask with magical faces coming and going as they please. Ever transforming and odd and unshapen. 
+  * User now knows the cantrip shocking grasp. When you come withing 30ft of a creature that has died within last one minute, Mask draws in the last soul remenant of the drifting creature, make a charsima saving throw with DC on creatures challenge rating or level, or it's 10+CR if creature resists. On success the mask collects the unconcious remenant, amount of remenants has it's limits. 
   * __Semi Shift:__ You synch with the mask as a bonus action, it lasts for a minute and you can take another bonus action to deactivate it. You start to take on aspects of your creature. Available only once per short rest or long rest. In this form, your mask seals over your face as your form glistens with other worldly shimmering, your physcial form remains unchanged but is viusually emminating a silvery purple smoke or steam. While in this form you have the following aspects:
     * You become resistant to lightning damage
     * You have a flying hover speed of 5ft minimum
