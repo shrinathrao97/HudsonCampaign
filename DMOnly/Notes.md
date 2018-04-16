@@ -77,6 +77,7 @@
     
 * Shield and Axe training
 * Spend time with Raptor
+ * Raptyrion
 
 ### Loot:
 
@@ -90,3 +91,13 @@
 - Mole
 - Blink Dog
 - =Black Mamba=
+
+
+## Training Checks
+   : EAGL : KSHA
+STR  17     15
+DEX  15     11
+CON  5      3
+INT  11     11
+WIS  22     11
+PRE  15     21
