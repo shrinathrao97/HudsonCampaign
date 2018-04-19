@@ -1,4 +1,14 @@
 # Final Cruise Group Session
+- Icharo
+  * Icharo turns away from the cage, locking eyes with y’all.  As if in revolt against her unphasable emotionless face is a stream of tears streaking down the side of her face as you see a brief glow of some sort leave her already phantasmal white eyes.  You could’ve sworn that Icharo didn’t have head to toe tattoos last time you saw her, especially the faintly pulsing kind.
+  * Icharo, in response, puts a finger up to her tear-soaked lips, pointing at the ceiling, which is wood and has a noticeable creaking to it. 
+  * Within moments of your approach, Icharo turns and disappears once again as Icharo turns invisible and begins heading for the door.
+  * In one corner of the obelisk room, you see Icharo Maln, the white dragonborn.  She could have fooled you at a glance though, as she now sports intricate shifting tattoos from head to toe, which you now see in full boar due to her only article of clothing remaining being the baggy cloth scraps acting as pants over her thighs.  
+  * Icharo’s tattoos begin to swirl and twist along her body, changing color in such a shifting speed that the tattoos appear white and blend into her body completely.  At this moment you all get the impression that no one touches the obelisk without going through her.  No one.
+
+- Thomas
+  * 
+
 - Ulfgarf
   * Pistol reveal when the bots become overwhelming or for a final strike.
   * Pistol appears to be a flintlock piatol but glows violently red and, just for an instant, appears to be covered in blood.  You all snap out of the vision as you hear a loud POW noise as the ranged weapon in Ulfgarf’s hand recoils, blasting through its target with an instantaneous red beam.
