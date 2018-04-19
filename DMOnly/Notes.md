@@ -18,6 +18,8 @@
   * He confidently taunts the party and asks what rhey want confidently.  He breaks a bit when he asks how many of his friends the party has killed.  
   * When the party inevitably breaks in, he begins to stutter and fall apart wmotionally as he climbs into his mech/shelter to wait out the battle.  Becoming a mech in an emergency to defend himself.
   * When questioned, he says he made the robot friends and was told to keep creating and spreading them by the voice thar promised him a future where weird him could be accepted.  “I just wanted to make some friends, but all of the real ones were broken.”  He says breaking into tears.  “This crystal helped me build a better friend, telling me I could keep making more as long as I used the friends to charge the crystal obilesk.  It would help me and i would help it to reach its- our goal, to change the nature of human beings en mass.”
+  * If able, rushes to the crystal to activate it early.
+  * “Crystal, help me!”
 
 - Ulfgarf
   * Pistol reveal when the bots become overwhelming or for a final strike.
@@ -31,7 +33,8 @@
     * Wildshape of the Void: You can wildshape into a Projection.
   * As you stop to question it momentarily, you feel a tightness in the core of your being, as if something just grabbed a hold of your identity as a paladin and threatens to yank it from your palm. 
 
-- 
+- Iuden
+  * 
 
 
 ## Unimportant Board Members
