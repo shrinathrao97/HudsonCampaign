@@ -29,6 +29,7 @@
   * "Now, leave in peace, if that is your intent, and you will be spared.  All else must face me."
   * "You're looking well, Iuden.  Have you come to pay your respects?"  "Iuden, do you not recognize your benefactor?"  "Worry not, you soon will.  This form may not be ideal, but my powers within it are enough.  Join me at my side, Iuden, and you will be spared and greatly rewarded with more powers like the ones you feel now."
   * "I sense that you too are a follower of the void, Delvid.  You are not one of mine, but I sense that your purpose might be even greater than my own.  We seek the same goal, to protect the pathway between planes; Stop fighting and I will divulge everything I know about the void and the one that you worship."
+- “Ah, the twins.  I have well gotten to know you through Iuden’s eyes, and now that I can probe your minds in person then I see no reason not to.” 
 
 - Ulfgarf (under god of bloodlust)
   * Pistol reveal when the bots become overwhelming or for a final strike.
@@ -39,13 +40,13 @@
     * Mass Maraud: Once per long rest you can take 1hp from every living creature within 60ft and deal up to 20 of those points to damage a single target, attack rolls are unchanged.
     * Malediction: Once per long rest you can choose to heal yourself up to half of the damage dealt to a target before applying Mass Maraud.
 
-- Delvid
+- Delvid (under Xulvrathox)
   * The obelisk calls to him, a message from a precense beyond his immagination calling for him to make sure the obelisk remains in place and unharmed.  The precense you feel doesn’t feel so strongly about the gearmaster.  
   * As if as encouragement, you feel a surge of strength flow through you.  You feel like your connection to nature has become both skewed, and strengthened.  
     * Wildshape of the Void: You can wildshape into a Projection.
   * As you stop to question it momentarily, you feel a tightness in the core of your being, as if something just grabbed a hold of your identity as a paladin and threatens to yank it from your palm. 
 
-- Iuden
+- Iuden (under Xaion)
   * Upon seeing the dragon, you, Iuden, feel a burst of energy.  As if your patron has empowered you in this moment.  You gain the following ability.
   * Eldritch Eyes: You can cast Eldritch Blast from your eyes, giving you one of the following benefits:
     * Cross Eyes: You can cast Eldritch Blast at two separate targets in a single casting.
@@ -56,9 +57,13 @@
   
 - Cateline
   * You notice something glow on his forehead as he pauses and breaks out into a cold sweat.  It was just for a moment, but the shape was distinct: a straight light with a half-circle at the line's center.  As it disappeared, Morren returns to normal.
+  * If Xaion succeeds in probing Cateline.  “What a pampered fool you were.  Narry ready nor a reason to leave the nest yet diving head first into the world.  Had you even considered what you family would think?  In fact, why don’t you tell them?”  Two reprojections, each in the form of Cateline’s parents, appear from Xaion’s body.
   
 - Morren
   * You feel strange as you see and consider the situation with Thomas in front of you.  You feel a similar compulsion, the errant NEED to destroy that crystal, even though you haven't seen it yet.  However, thanks to the roll I had you roll earlier, you recognize and resist this temptation as it starts to leave you.  You realize that you're past the worst of it in this moment once you realize the cold sweat that you've just broken out into, looking around at cateline, who has noticed the issue.
+  * If Xaion succeeds in probing Morren.  “I see you had a troubling childhood, Morren.  What a shame that you were forced to live as a tool rather than die as a man.”  Casts Phantasmal Force.
+
+
 
 ## Unimportant Board Members
 ### U-N1M (U)
