@@ -6,11 +6,12 @@
   * 2d8 damage, range (100/260)ft, attunement, once per long rest you can take 1hp from every living creature within 60ft and deal up to 20 of those points to damage a single target, attack rolls are unchanged.
 
 - Delvid
-  * The obelisk calls to him, a message from a being beyond his immagination calling for him to make sure the obelisk remains in place and unharmed.  The precense you feel doesn’t feel so strongly about the gearmaster.  
-  * As if as encouragement, you feel a surge of strength flow through you.  You feel like your connection to nature has become both skewed, and strengthened, but in a different way.  
-    * Wildshape of the Void: You can wildshape into a 
-  * As you stop to question it momentarily, you feel a tightness in the core of your being, as if something just grabbed a hold of your identity as a paladin and threatens to yank them from your palm. 
-  * 
+  * The obelisk calls to him, a message from a precense beyond his immagination calling for him to make sure the obelisk remains in place and unharmed.  The precense you feel doesn’t feel so strongly about the gearmaster.  
+  * As if as encouragement, you feel a surge of strength flow through you.  You feel like your connection to nature has become both skewed, and strengthened.  
+    * Wildshape of the Void: You can wildshape into a Projection.
+  * As you stop to question it momentarily, you feel a tightness in the core of your being, as if something just grabbed a hold of your identity as a paladin and threatens to yank it from your palm. 
+
+- 
 
 
 ## Unimportant Board Members
