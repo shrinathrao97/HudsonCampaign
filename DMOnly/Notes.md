@@ -29,7 +29,8 @@
   * "Now, leave in peace, if that is your intent, and you will be spared.  All else must face me."
   * "You're looking well, Iuden.  Have you come to pay your respects?"  "Iuden, do you not recognize your benefactor?"  "Worry not, you soon will.  This form may not be ideal, but my powers within it are enough.  Join me at my side, Iuden, and you will be spared and greatly rewarded with more powers like the ones you feel now."
   * "I sense that you too are a follower of the void, Delvid.  You are not one of mine, but I sense that your purpose might be even greater than my own.  We seek the same goal, to protect the pathway between planes; Stop fighting and I will divulge everything I know about the void and the one that you worship."
-- “Ah, the twins.  I have well gotten to know you through Iuden’s eyes, and now that I can probe your minds in person then I see no reason not to.” 
+  * “Ah, the twins.  I have well gotten to know you through Iuden’s eyes, and now that I can probe your minds in person then I see no reason not to.” 
+  * "Tab, was it?  Skilled as I'm sure you are, no potion will free you from your slavery.  To ask me for help, however, might just free you from your fate.  The being controls you in part, so you must lose your current form, however, to truly be free." 
 
 - Ulfgarf (under god of bloodlust)
   * Pistol reveal when the bots become overwhelming or for a final strike.
@@ -56,13 +57,33 @@
   * As the strike hits or attempts to hit, Xaion turns to Iuden: "You poor tragic child, you fail to tell your enemies from your friends.  Perhaps it would be best if you stopped trying."  Xaion uses his reaction to activate the control he has over you, automatically casting the spell that is Iuden's ultimate goal.  Make a Wisdom Saving Throw, Iuden.
   
 - Cateline
-  * You notice something glow on his forehead as he pauses and breaks out into a cold sweat.  It was just for a moment, but the shape was distinct: a straight light with a half-circle at the line's center.  As it disappeared, Morren returns to normal.
+  * You notice a shape etched into the grime onto the  on his forehead as he pauses and breaks out into a cold sweat.  It was just for a moment, but the shape was distinct: a straight light with a half-circle at the line's center.  As it disappeared, Morren returns to normal.  As your eyes lock on the symbol, they fill your eyes as you become overwhelmed with a warmth like a sunset or sunrise.  You hear, for a moment, a voice, saying that even if you all make it through this, your brother could still die in the aftermath of this crystal, and you won't always be there to help him through it.  Your eyes glaze over, and you turn to the nearby obelisk.  Only it is powerful enough to kill you and Morren; only destroying it can prevent that.  You NEED to destroy it.  Your eyes return as the voice in your head comes to the logical conclusion; no one here is able to use this thing correctly, all the other contenders must be removed from this situation.  You cannot speak of this vision.
+  * You feel empowered as your eyes glow brighter:
+    * Fade-os Bolt: Your chaos bolt ignores all resistances, doubling the bolt can be aimed at the same target, and if you hit a target with a bolt then you become invisible.
+  * if striking Wimble: You turn to Wimble, and the voice in your head stops you.  Wimble is on your side, for now.  You may redirect your attack.
   * If Xaion succeeds in probing Cateline.  “What a pampered fool you were.  Narry ready nor a reason to leave the nest yet diving head first into the world.  Had you even considered what you family would think?  In fact, why don’t you tell them?”  Two reprojections, each in the form of Cateline’s parents, appear from Xaion’s body.
   
 - Morren
-  * You feel strange as you see and consider the situation with Thomas in front of you.  You feel a similar compulsion, the errant NEED to destroy that crystal, even though you haven't seen it yet.  However, thanks to the roll I had you roll earlier, you recognize and resist this temptation as it starts to leave you.  You realize that you're past the worst of it in this moment once you realize the cold sweat that you've just broken out into, looking around at cateline, who has noticed the issue.
+  * You feel strange as you see and consider the situation with Thomas in front of you.  You feel a similar compulsion, the errant NEED to destroy that crystal, even though you haven't seen it yet.  However, thanks to the roll I had you roll earlier, you recognize and resist this temptation as it starts to leave you.  You realize that you're past the worst of it in this moment once you realize the cold sweat that you've just broken out into, looking around at cateline, who has noticed the issue.  She doesn't speak, but instead breaks into a cold sweat.
   * If Xaion succeeds in probing Morren.  “I see you had a troubling childhood, Morren.  What a shame that you were forced to live as a tool rather than die as a man.”  Casts Phantasmal Force.
+  * You see that Cateline is not fully in control, but you see that she has no intention of hurting you instead.  That said, no one takes advantage of your sister, and your emotions start to flare.  
+    * Sibling of Chaos: While within 15ft of Cateline, you can use Font of Chaos up to a cap of twice, and can give the advantage to Cateline as well on her turn.  
+  
+- Tab
+  * Stepping into the basement, you notice first a series of chemicals and vials.  They're in their base form, but with some work, you could make them into some powerful stuff.  There are three chemicals here that need to be added in specific orders to make different potions.  A violent chemical, a soothing chemical, and a shifting chemical.  They need to be added in order of importance, and only three doses, including repeats, can be added.  Knowing chemicals, literally anything can be added to the base in small amounts as a dosage, but may not be as powerful as a potion that uses all the chemicals.  There are two of each chemical type.  
+  * When you begin walking up the stairs, you feel something grip you.  You know what's up ahead.  Make a wisdom saving throw.  You are gripped by a NEED to destroy the crystal you see as you open the next door.
+    * Concoct: You can replicate a spell effect cast within 20ft of you as long as 1 minute ago as a bonus action in a quick concoction taking up two different potions of yours.  You can only replicate an effect once until seen again.  Touch = contact; self = injest.
+  
+- Mormir
+  * When Xaion appears: "You are the kind that I hate the most, acting without care for the wants and likes of others.  You do not get an offer of peace, for you will be but a smear once all is done.  But first..." It turns to Denver. "...Your companion."
+    * Soul Bow: Same as longbow+1, but deals 1d10 cold damage upon hit and pushes the target back 5ft on a DC 12 failed Con Save
 
+- Nebula
+  * When Xaion appears: "You confuse me, Nebula, as all Celestials do.  You're not to be trusted, are you?"  "Most celestials abhor the void, perhaps you have some use yet.  Join me, and you will gain powers and knowledge far beyond those you currently possess."
+    * Anti-Anti-Life:  All voidic creatures within 5ft of you cannot use legendary actions, and you gain a legendary resistance once per time you meet a voidic creature.  You have voidic damage resistance.
+    
+- Scout
+  * When Xaion appears: "A kobold?  Who doesn't run?  How amusing.  Do not expect your dragon to save you from me.  I have seen your master, and it cannot compare to me."
 
 
 ## Unimportant Board Members
