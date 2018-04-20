@@ -1,4 +1,6 @@
 # Final Cruise Group Session
+Mauldo the Gearforged Champion
+
 - Icharo (under Xulvrathox)
   * Icharo turns away from the cage, locking eyes with y’all.  As if in revolt against her unphasable emotionless face is a stream of tears streaking down the side of her face as you see a brief glow of some sort leave her already phantasmal white eyes.  You could’ve sworn that Icharo didn’t have head to toe tattoos last time you saw her, especially the faintly pulsing kind.
   * Icharo, in response, puts a finger up to her tear-soaked lips, pointing at the ceiling, which is wood and has a noticeable creaking to it. 
