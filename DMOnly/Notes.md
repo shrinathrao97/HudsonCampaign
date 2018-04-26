@@ -2,26 +2,14 @@
 Mauldo the Gearforged Champion
 
 - Icharo (under Xulvrathox)
-  * Icharo turns away from the cage, locking eyes with y’all.  As if in revolt against her unphasable emotionless face is a stream of tears streaking down the side of her face as you see a brief glow of some sort leave her already phantasmal white eyes.  You could’ve sworn that Icharo didn’t have head to toe tattoos last time you saw her, especially the faintly pulsing kind.
-  * Icharo, in response, puts a finger up to her tear-soaked lips, pointing at the ceiling, which is wood and has a noticeable creaking to it. 
-  * Within moments of your approach, Icharo turns and disappears once again as Icharo turns invisible and begins heading for the door.
-  * In one corner of the obelisk room, you see Icharo Maln, the white dragonborn.  She could have fooled you at a glance though, as she now sports intricate shifting tattoos from head to toe, which you now see in full boar due to her only article of clothing remaining being the baggy cloth scraps acting as pants over her thighs.  
-  * Icharo’s tattoos begin to swirl and twist along her body, changing color in such a shifting speed that the tattoos appear white and blend into her scales completely.  At this moment you all get the impression that no one touches the obelisk without going through her.  No one.
+* 
 
 - Thomas (under Fharlangnan)
-  * Prying at the door on the other side of the room is an awakened skeleton; Thomas, to be exact, is yanking and clawing at the large metal doors on the other side of the room, screeching, yelling, and begging to be let in.  
-  * DC 10 Arcana : You notice a mark on the underside of his skull that you hadn’t noticed before.  More like an engraving, the mark is a line with a semi-circle at it’s center.  And it’s glowing.  Slightly, but with enough power that you think to check it magically, discovering it’s magical origin.  DC 15 : And its cursed nature.  DC 20 : The mark is absolutely a form of controlling curse.  DC 22 : More accurately meant to deeply compel the cursed to NEED to do something.
-  * When pulled from the door, Thomas struggles against your grasp, looking around frantically for another way through.  
-  * When questioned, he says that he needs to destroy the crystal.  
+* 
 
 - Chodrel Quo (under Xaion)
-  * A humanoid who’s a mess at first, and confident when away from a group.  
-  * Standing on in the back of the tower by a large machine with a seat on it in the back.  A guard in almost religious full-body armor stands at the room’s center by the load-bearing pilar.  It’s unclear what this guard is, construct or not, but he appears ready to fight, and considering how deep his sword is into the stone floor you’d imagine him to be pretty strong.  
-  * He confidently taunts the party and asks what rhey want confidently.  He breaks a bit when he asks how many of his friends the party has killed.  
-  * When the party inevitably breaks in, he begins to stutter and fall apart wmotionally as he climbs into his mech/shelter to wait out the battle.  Becoming a mech in an emergency to defend himself.
   * When questioned, he says he made the robot friends and was told to keep creating and spreading them by the voice thar promised him a future where weird him could be accepted.  “I just wanted to make some friends, but all of the real ones were broken.”  He says breaking into tears.  “This crystal helped me build a better friend, telling me I could keep making more as long as I used the friends to charge the crystal obilesk.  It would help me and i would help it to reach its- our goal, to change the nature of human beings en mass.”
-  * If able, rushes to the crystal to activate it early.
-  * “Crystal, help me!”
+  * “Xaion, help me!”
   
 - Xaion (under self)
   * As the elevator reaches its peak, rain storming down outside, the crystal begins to glow.
