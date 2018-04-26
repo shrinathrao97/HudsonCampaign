@@ -16,25 +16,55 @@ Mauldo the Gearforged Champion
   * Attacking: When you go to attack, a shape moves out and blocks the attack.  
   * Next Turn: You step back as the figure pulls itself from the crystal like steam from a kettle.  It briefly forms around the crystal before lurching at and pulling in the large mecha.  Within moments the figure that forms from this is like a golem of steam, gears, and heat, covered in a glow and mist that is best described as 3D television static.  The glow from this static covers most of the machine's figure, allowing only the most out of place and extreme design aspects to pierce through the cloud.  The figure stands nearly 15ft tall as it stands, gears crunching and steam blowing as the form condenses into a more slender form.  A pair of glowing eyes pierce through the gears and static at the head, while the general shape of a face can be seen.  A dragon, you realize.  The shape it's becoming is draconic, wings and all, as the Dragon melds its personal shape into a Gearforged Void Dragon.
   * "Chodrel, your inability has finally brought a result, so I will let your defensive failings slide.  However, should these "bullies" have their way, our future will soon become theirs."
-  * Chodrel: “Y-your form!  Wh-what did they do to you!”
-  * “Speak no more, Chodrel.  This is more than enough of me to handle the situation at hand.”
+    * Chodrel: “Y-your form!”
+    * “Speak no more, Chodrel.  This is more than enough of me to handle the situation at hand.”
   * The dragon scans his surroundings, stopping once its gaze meets Iuden.  
-  * "You're looking well, Iuden.  Have you come to pay your respects?"  
-  * "Iuden, do you not recognize your own benefactor?  Perhaps it us unfair to expect recognition in this lesser form."  
-  * “This form may not be ideal, but my powers within it are enough.  Join me at my side, Iuden, and your rewards will be even greater.” =Iuden Power=
-  * When struck by Iuden: “Do you still not remember, Iuden?  Worry not, you soon will.” =Geas= “I had no intention of bending you to my will like the Sunset has done to your friends, but perhaps some loss of control will grant you an ounce of respect.”
-  * "I sense that you too are a follower of the void, Delvid.  You are not one of mine, but I sense that your purpose might be even greater than my own.  We seek the same goal, to protect the pathway between planes; Stop fighting and I will divulge everything I know about the void and the one that you worship."
-  * “Ah, the twins.  I have well gotten to know you through Iuden’s eyes, and now that I can probe your minds in person then I see no reason not to.” 
-  * "Tab, was it?  Skilled as I'm sure you are, no potion will free you from your slavery.  To ask me for help, however, might just free you from your fate.  The being controls you in part, so you must lose your current form, however, to truly be free." 
+    * "You're looking well, Iuden.  Have you come to pay your respects?"  
+    * "Iuden, do you not recognize your own benefactor?  Perhaps it us unfair to expect recognition in this lesser form."  
+    * “This form may not be ideal, but my powers within it are enough.  Join me at my side, Iuden, and your rewards will be even greater.” =Iuden Power=
+
+  * As Iuden goes to attack, make a Charisma Saving Throw at Disadvantage.
+  * As the strike hits or attempts to hit, Xaion turns to Iuden: "You poor tragic child, you fail to tell your enemies from your friends.  Perhaps it would be best if you stopped trying."  Xaion uses his reaction to activate the control he has over you, automatically casting the spell that Iuden has studied well.  Make a Wisdom Saving Throw, Iuden.  =Geas=
+  * When struck by Iuden: “You poor tragic child, you fail to tell your enemies from your friends.  Perhaps it would be best if you stopped trying.” 
+    * Xaion uses his reaction to activate the control he has over you, automatically casting the spell that Iuden has studied well.  Make a Wisdom Saving Throw, Iuden. 
+    * “I had no intention of bending you to my will like the Sunset has done to your friends, but perhaps some loss of control will grant you an ounce of respect.”
+
+  * Sees Delvid:
+    * "I sense that you too are a follower of the void, Delvid.  You are not one of mine, but I sense that your purpose might be even greater than my own.  We seek the same goal, to protect the pathway between planes; Stand down, and I will grant you the knowledge you seek and divulge all I know about the void and the one that you worship."
+
+  * Sees Morren
+    * “Morren, your resistance to the Sunset is admirable.  Though at the cost of it targeting your sister, I doubt that you agree.  You have earned a place at my side should you want it.”
+
+  * Sees Cateline
+    * “Poor, poor child.  I doubt you could stop if you wanted to...”
+    * “Worry not, your end will come quickly.”
+
+  * Sees Tab
+    * "Tab, was it?  Skilled as I'm sure you are, no potion of the mind will help you awaken from your obedience to the Sunset, and no potion of the body will give you the strength to break your shackles, not anymore.  To ask me for help, however, might just free you from your fate.  The Sunset’s control in you runs deep, so you must lose your current form, however, to truly be free." 
+
+  * Sees Mormir 
+    * “You have no master, yet you wield great personal strength.  Too much, perhaps.  I predict that your pride will be your downfall, and all you know will go with you.  So no, you do not get an offer of peace, for the only way for you to survive is to beg for your life.  So instead, you will be but a smear once all is done.  And as i predicted,” it turns to Denver. “All that you know will go with you."
+
+  * Sees Scout
+    * "A kobold?  Who doesn't run?  How amusing...  Do what your kind is best at, Kobold, and beg for me to be your new master.”
+    * “Do not expect your dragon to save you from me.  I have seen your master, and there is no comparison."
+
+  * Sees Nebula
+    * “A celestial!?  No, you are but a bastard child of a real threat...”
+    * “You confuse me, Nebula, most celestials abhor the void reflexively, perhaps you have some use yet.  Join me, and you will gain powers and knowledge far beyond those you currently possess."
+
+
 
 - Ulfgarf (under god of bloodlust)
-  * Pistol reveal when the bots become overwhelming or for a final strike.
   * Pistol appears to be a flintlock piatol but glows violently red and, just for an instant, appears to be covered in blood.  You all snap out of the vision as you hear a loud POW noise as the ranged weapon in Ulfgarf’s hand recoils, blasting through its target with an instantaneous red beam.
   * A voice remains, though unclear.  Your bloodlust must be sated by someone or something.  You instantly know who that target will be.  
+
   * Blood Blaster
     * 2d8 damage, range (100/260)ft, attunement.
     * Mass Maraud: Once per long rest you can take 1hp from every living creature within 60ft and deal up to 20 of those points to damage a single target, attack rolls are unchanged.
     * Malediction: Once per long rest you can choose to heal yourself up to half of the damage dealt to a target before applying Mass Maraud.
+
+
 
 - Delvid (under Xulvrathox)
   * The obelisk calls to him, a message from a precense beyond his immagination calling for him to make sure the obelisk remains in place and unharmed.  The precense you feel doesn’t feel so strongly about the gearmaster.  
@@ -42,43 +72,52 @@ Mauldo the Gearforged Champion
     * Wildshape of the Void: You can wildshape into a Projection.
   * As you stop to question it momentarily, you feel a tightness in the core of your being, as if something just grabbed a hold of your identity as a paladin and threatens to yank it from your palm. 
 
+
+
 - Iuden (under Xaion)
   * Upon seeing the dragon, you, Iuden, feel a burst of energy.  As if your patron has empowered you in this moment.  You gain the following ability.
-  * Eldritch Eyes: You can cast Eldritch Blast from your eyes, giving you one of the following benefits:
-    * Cross Eyes: You can cast Eldritch Blast at two separate targets in a single casting.
+
+  * Eldritch Eyes: You can cast Eldritch Blast from your eyes without V, S, or M requirements, and giving you one of the following benefits:
+    * Cross Eyed: You can cast Eldritch Blast at two separate targets in a single casting.  Roll both attack dice at once, you choose which roll is to hit which target.
     * Domineye: A target hit by your Eldritch Blast must make a Wisdom Saving Throw against your spell save DC or become Charmed by you until the end of its turn or until shaken out of it by an action spent by another creature.   
-  * When Xaion says this, you feel a tug as your powers feel like they may slip through your fingers.
-  * As Iuden goes to attack, make a Charisma Saving Throw at Disadvantage.
-  * As the strike hits or attempts to hit, Xaion turns to Iuden: "You poor tragic child, you fail to tell your enemies from your friends.  Perhaps it would be best if you stopped trying."  Xaion uses his reaction to activate the control he has over you, automatically casting the spell that is Iuden's ultimate goal.  Make a Wisdom Saving Throw, Iuden.
   
+
 - Cateline
   * You notice a shape etched into the grime onto the  on his forehead as he pauses and breaks out into a cold sweat.  It was just for a moment, but the shape was distinct: a straight light with a half-circle at the line's center.  As it disappeared, Morren returns to normal.  As your eyes lock on the symbol, they fill your eyes as you become overwhelmed with a warmth like a sunset or sunrise.  You hear, for a moment, a voice, saying that even if you all make it through this, your brother could still die in the aftermath of this crystal, and you won't always be there to help him through it.  Your eyes glaze over, and you turn to the nearby obelisk.  Only it is powerful enough to kill you and Morren; only destroying it can prevent that.  You NEED to destroy it.  Your eyes return as the voice in your head comes to the logical conclusion; no one here is able to use this thing correctly, all the other contenders must be removed from this situation.  You cannot speak of this vision.
   * You feel empowered as your eyes glow brighter:
+
     * Fade-os Bolt: Your chaos bolt ignores all resistances, doubling the bolt can be aimed at the same target, and if you hit a target with a bolt then you become invisible.
   * if striking Wimble: You turn to Wimble, and the voice in your head stops you.  Wimble is on your side, for now.  You may redirect your attack.
-  * If Xaion succeeds in probing Cateline.  “What a pampered fool you were.  Narry ready nor a reason to leave the nest yet diving head first into the world.  Had you even considered what you family would think?  In fact, why don’t you tell them?”  Two reprojections, each in the form of Cateline’s parents, appear from Xaion’s body.
   
+
+
 - Morren
   * You feel strange as you see and consider the situation with Thomas in front of you.  You feel a similar compulsion, the errant NEED to destroy that crystal, even though you haven't seen it yet.  However, thanks to the roll I had you roll earlier, you recognize and resist this temptation as it starts to leave you.  You realize that you're past the worst of it in this moment once you realize the cold sweat that you've just broken out into, looking around at cateline, who has noticed the issue.  She doesn't speak, but instead breaks into a cold sweat.
   * If Xaion succeeds in probing Morren.  “I see you had a troubling childhood, Morren.  What a shame that you were forced to live as a tool rather than die as a man.”  Casts Phantasmal Force.
   * You see that Cateline is not fully in control, but you see that she has no intention of hurting you instead.  That said, no one takes advantage of your sister, and your emotions start to flare.  
+
     * Sibling of Chaos: While within 15ft of Cateline, you can use Font of Chaos up to a cap of twice, and can give the advantage to Cateline as well on her turn.  
+
+
   
 - Tab
   * Stepping into the basement, you notice first a series of chemicals and vials.  They're in their base form, but with some work, you could make them into some powerful stuff.  There are three chemicals here that need to be added in specific orders to make different potions.  A violent chemical, a soothing chemical, and a shifting chemical.  They need to be added in order of importance, and only three doses, including repeats, can be added.  Knowing chemicals, literally anything can be added to the base in small amounts as a dosage, but may not be as powerful as a potion that uses all the chemicals.  There are two of each chemical type.  
   * When you begin walking up the stairs, you feel something grip you.  You know what's up ahead.  Make a wisdom saving throw.  You are gripped by a NEED to destroy the crystal you see as you open the next door.
+
     * Concoct: You can replicate a spell effect cast within 20ft of you as long as 1 minute ago as a bonus action in a quick concoction taking up two different potions of yours.  You can only replicate an effect once until seen again.  Touch = contact; self = injest.
   
+
+
 - Mormir
-  * When Xaion appears: "You are the kind that I hate the most, acting without care for the wants and likes of others.  You do not get an offer of peace, for you will be but a smear once all is done.  But first..." It turns to Denver. "...Your companion."
     * Soul Bow: Same as longbow+1, but deals 1d10 cold damage upon hit and pushes the target back 5ft on a DC 12 failed Con Save
 
 - Nebula
-  * When Xaion appears: "You confuse me, Nebula, as all Celestials do.  You're not to be trusted, are you?"  "Most celestials abhor the void, perhaps you have some use yet.  Join me, and you will gain powers and knowledge far beyond those you currently possess."
-    * Anti-Anti-Life:  All voidic creatures within 5ft of you cannot use legendary actions, and you gain a legendary resistance once per time you meet a voidic creature.  You have voidic damage resistance.
+    * Anti-Anti-Life Aura:  All voidic creatures within 5ft of you cannot use legendary actions, and you gain a legendary resistance once per time you meet a voidic creature.  You have voidic damage resistance.
     
 - Scout
-  * When Xaion appears: "A kobold?  Who doesn't run?  How amusing.  Do not expect your dragon to save you from me.  I have seen your master, and it cannot compare to me."
+
+- Wimble
+  * 
 
 
 ## Unimportant Board Members
