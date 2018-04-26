@@ -53,7 +53,15 @@ Mauldo the Gearforged Champion
     * “A celestial!?  No, you are but a bastard child of a real threat...”
     * “You confuse me, Nebula, most celestials abhor the void reflexively, perhaps you have some use yet.  Join me, and you will gain powers and knowledge far beyond those you currently possess."
 
+  * Sees Wimble
+    * “A pest, lost to the Sunset.  What a waste.  I can guarantee no freedom from you in your current vessel, but in a new one then you might once and for all be free.  Lay down your weapons, if you still can, and you will be given a chance.”
+      * A vision of the sunset appears on all horizons and a voice comes to you.  “Listen not to the jealous dragon.  Only together can we survive.  And only together will we be.  Now stand, Wimble, for Fharlaghnin, the Sunset, stands with you, if you stand with me.”
+      * As you stand, you feel a rush flow through you.  Your wounds close as your health restores to full.  
 
+
+
+- Wimble
+  * 
 
 - Ulfgarf (under god of bloodlust)
   * Pistol appears to be a flintlock piatol but glows violently red and, just for an instant, appears to be covered in blood.  You all snap out of the vision as you hear a loud POW noise as the ranged weapon in Ulfgarf’s hand recoils, blasting through its target with an instantaneous red beam.
