@@ -55,9 +55,10 @@ Mauldo the Gearforged Champion
 
   * Sees Wimble
     * “A pest, lost to the Sunset.  What a waste.  I can guarantee no freedom from you in your current vessel, but in a new one then you might once and for all be free.  Lay down your weapons, if you still can, and you will be given a chance.”
-      * A vision of the sunset appears on all horizons and a voice comes to you.  “Listen not to the jealous dragon.  Only together can we survive.  And only together will we be.  Now stand, Wimble, for Fharlaghnin, the Sunset, stands with you, if you stand with me.”
-      * As you stand, you feel a rush flow through you.  Your wounds close as your health restores to full.  
-
+      * A vision of the sunset appears on all horizons and a voice comes to you.  “Listen not to the jealousy of a dragon.  Only together can we survive.  And only together will we be.  Now stand, Wimble, for the Sunset, Fharlanghnin, stands with you.  Will you stand with me?”
+      * As you stand, you feel a rush flow through you.  Your wounds close as your health restores to full.  A whispy/strange feeling flows over you and you have a newfound confidence.
+      * Faded Form: As a bonus action your form becomes spectral and your body clear.  You have a hover speed of 10ft in this form.  You can move through solid objects.  You stay in this form for 1 minute.  You can deal psychic damage instead when you deal melee damage.  You can become invisible for the extent of your turn as a bonus action.
+      * Void Form: As a bonus action your form become voidic and you appear like vivid 3D static.  You can move through spaces as small as 1 inch as rough terrain.  You can stretch your form; your melee attacks have 5ft of extra reach.  Your attacks ignore resistance.  You can change your siloette to any thing medium-sized.
 
 
 - Wimble
