@@ -1,3 +1,99 @@
+## Script
+* Last we left off, as Kshaya and Eaglor finish up their learning under the Unimportant teachers, you two have come to realize that many of the obilesk reports have stopped, and that the Queen of Thrash has died from sickness.  You near your excellerated graduation day as you prepare for your final challenge; to hunt down and return a missing mask and student with Garuda, making sure to improve the world in doing so.  However, bright and early on the morning of your graduation challenge, you have been oddly summoned to Master U's chambers...
+* You find your way up to the hidden entrance to Master U's chambers, only to find Jade walking out of the room as the door closes behind.
+  * "Eaglor, Kshaya!  Bright and early, I see!  Excited for your exam?"
+  * "Glad to hear it, because it's entirely different from what you've been preparing for."
+  * "The King of Thrash has made a call to all capable residents of Thrash to come and lend some extra protection to the castle.  Now, technically this was sent out a week ago but didn't ring any alarms since it makes sense to do so in such a small country and with such a tragic event like the death of a queen.  What's a little more alarming is that we can't teleport there, like, at all.  We don't know when it started, but someone was headed there this morning and we realized that all of OUR magical forms of teleportation fail when aiming at most of Thrash.  Henet's got a confirmed location in Southern Thrash, and we're sending people there now to get to the castle by foot.  Our member at the castle has gone AWOL, or at least hasn't responded since we started contacting her this morning."
+  * "Now, walk with me.  I know you two are smart cookies.  Okay, I don't know that, but I'm gonna take a risk and assume that since you're both about to graduate.  Can you two tell me WHY we plan to send you two instead of literally ANYONE else more experienced?"
+  * "This is getting cruel, I'll just tell you.  1. You know the king.  2. Convenient Timing.  3. We think we know who your tick-tack-toe doubles partner is.  Fharlangnin is worshiped privately as a god, but not much is known about him.  What I CAN say is that he goes by multiple names, is inconsistently refered to as a god of everything from horizons, to the ethereal, to travel, to games, and has a knack for picking his "favorites" as I'm sure you've realized.  We got the info from another "favorite"'s mind last month before she disappeared.  We were still parsing what that meant, sorry we didn't say so sooner.  However, you probably know what makes all this info relevant right now.  Tell me why?"
+  * "Boy, y'all are really making me regret fast-tracking y'all.  The word TRAVEL.  If Fharlangnin is such a god of movement and travel, with or without the Ethereal, then y'all can teleport RIGHT into the castle and find out what's happening with a wink, a nod, and that little wooden snooze-fest you're still carrying around."
+  * "When you get there, you make your way to the castle, you find out what's happening, and try and re-establish teleportation within the city.  Here's a Teleport Scroll, it won't be used up until you can fix the problem."
+  * "Oh, and, listen.  This is your one and most important task until told otherwise.  I'm not always serious but you'd better not divert yourselves... I've never seen Master U so stressed."
+  * "Okay, was that clear enough?  Any questions?"
+  * "No? Okay then.  Well, enough of this dallying, go pick some people randos to br-"
+* Having made it out into the courtyard, y'all see Jade entirely unmoving and everything suddenly go quiet as a solid 90% of the other Unimportants around you stop in place.  If it weren't for wind and an occassional student or two gawking as well, then you'd assume that time might have stopped entirely.
+* The closer you look, you realize that their eyes are still moving.  They look pretty frantic before they, like a switch, suddenly glaze over.
+* Suddenly, about half of frozen members rattle momentarily, as their chests uniformly crack or slide open, revealing a shining red light glowing outwardly as all their bodies move into more natural positions.
+
+## Unimportant Board Members
+### U-N1M (U)
+  * Created the Unimportants to help other Forged work through their issues, but opened it up to non-Forged over time.
+  * The test was originally meant to be a memory-dive assisted by magic, the first (and usually most emotionally painful) of many for a Forged member.  Using similar techniques with the help of some mind-affecting magic and a mind-opening potion, non-Forged can experience much of the same experience, but with harsher and more lasting results in a single vision instead.
+  * The masks were originally to hide their forged bodies, but the concept of hiding identity remained the same for non-Forged.
+  * Is the only Forged Unimportant that doesn't wear a mask, due to his natural face appearing mask-like.
+  * Goals 
+    * To find the reason why he and all other Forged exist.  Be that their creator or their creator's purpose for them, he aims to find it and let every Forged decide for themselves what they want to do.
+    * Because of a nagging worry that they were not made for nothing, and because of the nagging worry that they were made for nothing, U wants everyone, both Forged and Borne, to control their own lives and make their own decisions.  However, U must accept that any one of them could, at any moment, be called upon by their creator against their will.
+    * To help those who lack a home or piece of themselves, like him and the Forged, find their old one, or find or create a new one. 
+  * Fears
+    * When a theoretically fatal wound to a Forged's rune that they were able to mend back and save the Forged, U discovered that the runic symbol on every Forged that was thought to bind every Forged to their bodies is immensely magical for an entirely different reason, but identification of the spell is difficult.  He eventually found it to relate to forced control over a forged.  Not for long, perhaps, but long enough where any of the most powerful amonst them could cause devistation.  U is terrified of losing control, and his ultimate goal is to remove this rune from every Forged without causing death.
+  * While a great leader, vaguely nieve at times.  Relies on others, especially Unknown, to give him the support he needs to lead.
+### Aena (Garuda) Sins'kul
+  * The only Borne on the current Unimportant Board, she was controversially brought on to the board in response to the worry of "who will stop us if we lose self-control?"  U had worried endlessly over this issue, and refused to have any leadership at all if there was noone to act as a bounds to keep them all under control.
+  * A Monk Cleric Aarakocra, Aena was banished from her home with her daughter, and separated from her son-to-be, after her trust of the plane of water lead to a sneak attack that put the plane of Air on the losing side.  She and her daughter had their wings clipped, their beaks removed, and their back talon cut.  Additionally, though her punishment was officially over, she would be attacked by her people and lose both arms in the process.  
+  * She was completely lost in the Material Plane, coming to rely upon her dwindled connection to the gods of water to beg for help.  She would receive some help, becoming a self-trained cleric of the tempest in the short time she could muster, but she and her daughter remained hopelessly poor and in need of assistance.  Up until she and her daughter were found by U attempting to pay for food in Jid Ali, she continually feared for her life.  U found Aena not yet blemished by the selfish nature of residents of the poor district in Jid Ali, only exploited by them, though he had fears about Aena's daughter Quael, he took them in anyway.  With her and her daughter's life literally saved by U, she became as loyal to U as she could be without risking her daughter's safety, joining the Unimportants, and turning her life around.
+  * She, in her love of nature, became a druid as part of her training, and decided that while her natural form would remain ruined, she would instead take the form of a Crow as her new natural form.  She remains in this form at all times possible, saving her true form for only the most important tasks or the most intimate times with her daughter.
+  * She would choose not to speak to others out of respect for the law of her people, but she would refuse this wish when it came to raising her daughter.  She believes that her daughter was unjustly punished, and punishing her more by stunting her education by silencing the mother was beyond what Aena could respect.  She may write, but her voice is only for her children, who she loves despite their flaws.  
+  * Wears a Crow Mask, though it is rarely seen due to remaining in the Crow form for long enough for it not to matter.
+### Jade (Jade) Viro
+  * The newest member of the Board, replacing the missing Hera, who never returned from a mission to the Plane of Water earlier that month.  In fact, she was instated only a month priar to the party's arrival.
+  * She is rough around the edges, but she means well, and her growth is absolutely notable, being a natural at most skills, aside from her surprising non-chelant personality.
+  * An Unimportant of action, she is often off in the field helping with any important mission.
+### Unknown
+  * A researcher at heart, Unknown rarely leaves the depths of the Unimportant vaults.
+  * A strategic master, Unknown's tactics are morally questionable, but notably genius.  However, his overwhelming amount of research before a decision is made may guarantee victory, but at the immense cost of time to obtain proof.  
+  * Only wears his Black Widow mask in the precense of others, instead showing his multi-eyed robotic gas-mask-like face when amongst his element.
+  * Builds multiple attachments to himself, taking full advantage of his form.
+  * Never leaves his vaults if possible.
+  * Has a direct line into every other Forged if needed.
+  * Awoke with U, making U innately trust him.
+  * Has told no one that he has this ability, but he can see through the eyes of any Forged within 500ft of him, and can see through any of the masks he makes.
+  * Creates the current Masks for the clan.
+  * Discovered he and most of the clan's origin, a void dragon named Xaion.  After some time in thought, he realized that it would be best not to reveal this information to his friends and clans members as he found a new goal.
+  * While unhappy with existing as a construct at the whim of some other being, he realized and accepted that the path to his freedom from that life for him and his friends was only to come at the success of Xulvrathox, whose plan of reinvention was their only way back to humanity.  
+### Henet
+  * Mask: Pelican
+  * While a lasting member of the board, Pelican is not proven to be the most impressive member of the board.  He is, however, good at keeping things in order.  Pelican handles the organization of the vaults and basement areas.
+### Pan
+  * Mask: Black Goat
+  * Head artisan and head teacher of students within the Unimportants.  Creates the bases of the masks before being inchanted by Unknown.  Has gotten so skilled at transforming with the masks that he can remain in his mixed form for long periods of time and his form is so realistic where skin shows that he doesn't show inconsistencies due to their mechanical nature.
+
+---
+
+### Crane
+* Looking for U to talk with about the missing realms.
+
+### Possum
+* Caught Kshaya and Eaglor.
+* Sick of Eaglor.
+
+### Ocelot
+* With Bonaparte for his trial.
+
+### Dratsie (Otter)
+* Understanding; tries to be understanding.
+* Let Kshaya and Eaglor into the main vaults of the Unimportant Temple.
+
+---
+
+### Notes:
+
+### Loot:
+
+## Masks
+- Crow
+- White Coral Reef Snake
+- =Spark=
+- Gigantic Ocean Manta Ray
+
+- Rattlesnake
+- Mole
+- Blink Dog
+- =Black Mamba=
+
+
+
+
 # Final Cruise Group Session
 Mauldo the Gearforged Champion
 
@@ -127,108 +223,3 @@ Mauldo the Gearforged Champion
 
 - Wimble
   * 
-
-
-## Unimportant Board Members
-### U-N1M (U)
-  * Created the Unimportants to help other Forged work through their issues, but opened it up to non-Forged over time.
-  * The test was originally meant to be a memory-dive assisted by magic, the first (and usually most emotionally painful) of many for a Forged member.  Using similar techniques with the help of some mind-affecting magic and a mind-opening potion, non-Forged can experience much of the same experience, but with harsher and more lasting results in a single vision instead.
-  * The masks were originally to hide their forged bodies, but the concept of hiding identity remained the same for non-Forged.
-  * Is the only Forged Unimportant that doesn't wear a mask, due to his natural face appearing mask-like.
-  * Goals 
-    * To find the reason why he and all other Forged exist.  Be that their creator or their creator's purpose for them, he aims to find it and let every Forged decide for themselves what they want to do.
-    * Because of a nagging worry that they were not made for nothing, and because of the nagging worry that they were made for nothing, U wants everyone, both Forged and Borne, to control their own lives and make their own decisions.  However, U must accept that any one of them could, at any moment, be called upon by their creator against their will.
-    * To help those who lack a home or piece of themselves, like him and the Forged, find their old one, or find or create a new one. 
-  * Fears
-    * When a theoretically fatal wound to a Forged's rune that they were able to mend back and save the Forged, U discovered that the runic symbol on every Forged that was thought to bind every Forged to their bodies is immensely magical for an entirely different reason, but identification of the spell is difficult.  He eventually found it to relate to forced control over a forged.  Not for long, perhaps, but long enough where any of the most powerful amonst them could cause devistation.  U is terrified of losing control, and his ultimate goal is to remove this rune from every Forged without causing death.
-  * While a great leader, vaguely nieve at times.  Relies on others, especially Unknown, to give him the support he needs to lead.
-### Aena (Garuda) Sins'kul
-  * The only Borne on the current Unimportant Board, she was controversially brought on to the board in response to the worry of "who will stop us if we lose self-control?"  U had worried endlessly over this issue, and refused to have any leadership at all if there was noone to act as a bounds to keep them all under control.
-  * A Monk Cleric Aarakocra, Aena was banished from her home with her daughter, and separated from her son-to-be, after her trust of the plane of water lead to a sneak attack that put the plane of Air on the losing side.  She and her daughter had their wings clipped, their beaks removed, and their back talon cut.  Additionally, though her punishment was officially over, she would be attacked by her people and lose both arms in the process.  
-  * She was completely lost in the Material Plane, coming to rely upon her dwindled connection to the gods of water to beg for help.  She would receive some help, becoming a self-trained cleric of the tempest in the short time she could muster, but she and her daughter remained hopelessly poor and in need of assistance.  Up until she and her daughter were found by U attempting to pay for food in Jid Ali, she continually feared for her life.  U found Aena not yet blemished by the selfish nature of residents of the poor district in Jid Ali, only exploited by them, though he had fears about Aena's daughter Quael, he took them in anyway.  With her and her daughter's life literally saved by U, she became as loyal to U as she could be without risking her daughter's safety, joining the Unimportants, and turning her life around.
-  * She, in her love of nature, became a druid as part of her training, and decided that while her natural form would remain ruined, she would instead take the form of a Crow as her new natural form.  She remains in this form at all times possible, saving her true form for only the most important tasks or the most intimate times with her daughter.
-  * She would choose not to speak to others out of respect for the law of her people, but she would refuse this wish when it came to raising her daughter.  She believes that her daughter was unjustly punished, and punishing her more by stunting her education by silencing the mother was beyond what Aena could respect.  She may write, but her voice is only for her children, who she loves despite their flaws.  
-  * Wears a Crow Mask, though it is rarely seen due to remaining in the Crow form for long enough for it not to matter.
-### Jade (Jade) Viro
-  * The newest member of the Board, replacing the missing Hera, who never returned from a mission to the Plane of Water earlier that month.  In fact, she was instated only a month priar to the party's arrival.
-  * She is rough around the edges, but she means well, and her growth is absolutely notable, being a natural at most skills, aside from her surprising non-chelant personality.
-  * An Unimportant of action, she is often off in the field helping with any important mission.
-### Unknown
-  * A researcher at heart, Unknown rarely leaves the depths of the Unimportant vaults.
-  * A strategic master, Unknown's tactics are morally questionable, but notably genius.  However, his overwhelming amount of research before a decision is made may guarantee victory, but at the immense cost of time to obtain proof.  
-  * Only wears his Black Widow mask in the precense of others, instead showing his multi-eyed robotic gas-mask-like face when amongst his element.
-  * Builds multiple attachments to himself, taking full advantage of his form.
-  * Never leaves his vaults if possible.
-  * Has a direct line into every other Forged if needed.
-  * Awoke with U, making U innately trust him.
-  * Has told no one that he has this ability, but he can see through the eyes of any Forged within 500ft of him, and can see through any of the masks he makes.
-  * Creates the current Masks for the clan.
-### Henet
-  * Mask: Pelican
-  * While a lasting member of the board, Pelican is not proven to be the most impressive member of the board.  He is, however, good at keeping things in order.  Pelican handles the organization
-### Pan
-  * Mask: Black Goat
-  * Head artisan and head teacher of students within the Unimportants.  Creates the bases of the masks before being inchanted by Unknown.  Has gotten so skilled at transforming with the masks that he can remain in his mixed form for long periods of time and his form is so realistic where skin shows that he doesn't show inconsistencies due to their mechanical nature.
-
----
-
-### Crane
-* Looking for U to talk with about the missing realms.
-
-### U
-
-### Possum
-* Caught Kshaya and Eaglor.
-* Sick of Eaglor.
-
-### Ocelot
-* With Bonaparte for his trial.
-
-### Dratsie (Otter)
-* Understanding; tries to be understanding.
-* Let Kshaya and Eaglor into the main vaults of the Unimportant Temple.
-
-### Henet (Pelican)
-* Works in the Vaults.
-* Knocked unconscious after the obilesk exploded out the Beastwilds.
-
-### Notes:
-* Velociraptor as Eaglor's pal for now?
-
-* Eaglor's Armor Set
-* Bonaparte's Axe
-  * Layered Smelting and Sharpening
-    * Ridiculously hard
-    * Copper
-    * Lead
-    * Last Layer is Runic
-    * Steggosaurus Spikes
-    * T-Rex Teeth
-* Use Faded Step every day to speak with the dead
-    
-* Shield and Axe training
-* Spend time with Raptor
- * Raptyrion
-
-### Loot:
-
-## Masks
-- Crow
-- White Coral Reef Snake
-- =Spark=
-- Gigantic Ocean Manta Ray
-
-- Rattlesnake
-- Mole
-- Blink Dog
-- =Black Mamba=
-
-
-## Training Checks
-   : EAGL : KSHA
-STR  17     15
-DEX  15     11
-CON  5      3
-INT  11     11
-WIS  22     11
-PRE  15     21
