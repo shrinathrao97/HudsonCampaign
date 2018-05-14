@@ -1,4 +1,5 @@
 ## Script
+### Unimportant Village
 * Last we left off, as Kshaya and Eaglor finish up their learning under the Unimportant teachers, you two have come to realize that many of the obilesk reports have stopped, and that the Queen of Thrash has died from sickness.  You near your excellerated graduation day as you prepare for your final challenge; to hunt down and return a missing mask and student with Garuda, making sure to improve the world in doing so.  However, bright and early on the morning of your graduation challenge, you have been oddly summoned to Master U's chambers...
 * You find your way up to the hidden entrance to Master U's chambers, only to find Jade walking out of the room as the door closes behind.
   * "Eaglor, Kshaya!  Bright and early, I see!  Excited for your exam?"
@@ -8,12 +9,34 @@
   * "This is getting cruel, I'll just tell you.  1. You know the king.  2. Convenient Timing.  3. We think we know who your tick-tack-toe doubles partner is.  Fharlangnin is worshiped privately as a god, but not much is known about him.  What I CAN say is that he goes by multiple names, is inconsistently refered to as a god of everything from horizons, to the ethereal, to travel, to games, and has a knack for picking his "favorites" as I'm sure you've realized.  We got the info from another "favorite"'s mind last month before she disappeared.  We were still parsing what that meant, sorry we didn't say so sooner.  However, you probably know what makes all this info relevant right now.  Tell me why?"
   * "Boy, y'all are really making me regret fast-tracking y'all.  The word TRAVEL.  If Fharlangnin is such a god of movement and travel, with or without the Ethereal, then y'all can teleport RIGHT into the castle and find out what's happening with a wink, a nod, and that little wooden snooze-fest you're still carrying around."
   * "When you get there, you make your way to the castle, you find out what's happening, and try and re-establish teleportation within the city.  Here's a Teleport Scroll, it won't be used up until you can fix the problem."
-  * "Oh, and, listen.  This is your one and most important task until told otherwise.  I'm not always serious but you'd better not divert yourselves... I've never seen Master U so stressed."
+  * "Oh, and, listen.  This is your one and most important task until told otherwise.  I'm not always serious but you'd better not lose focus... Listen, there's a 4th reason you're going, but you're gonna have to trust me when I say that it's a very, VERY good reason."
   * "Okay, was that clear enough?  Any questions?"
   * "No? Okay then.  Well, enough of this dallying, go pick some people randos to br-"
 * Having made it out into the courtyard, y'all see Jade entirely unmoving and everything suddenly go quiet as a solid 90% of the other Unimportants around you stop in place.  If it weren't for wind and an occassional student or two gawking as well, then you'd assume that time might have stopped entirely.
-* The closer you look, you realize that their eyes are still moving.  They look pretty frantic before they, like a switch, suddenly glaze over.
-* Suddenly, about half of frozen members rattle momentarily, as their chests uniformly crack or slide open, revealing a shining red light glowing outwardly as all their bodies move into more natural positions.
+  * The closer you look, you realize that their eyes are still moving.  They look pretty frantic before they, like a switch, suddenly glaze over.
+  * Suddenly, about half of frozen members rattle momentarily, as their chests uniformly crack or slide open, revealing a shining red light glowing outwardly as all their bodies move into more natural positions.  Their movements are slow deliberate, as they each begin looking around.  
+  * Jade slowly looks down and turns to y'all with a level of voice quieted to the sound of mild discomfort, mimicking a lack of intense movement.  "Nevermind.  Wait here, Master U wants to talk to you."
+* Looking closer at the chest cavity, you see a series of machinery.  Gears, pistons, and clearly some magic, the detail is shocking and the use of various materials from wood to metal to ceramic to leathers to hide noise and increase longevity in incredible.  At its center is a small round cage with a brightly glowing crystal inside.  Though the closer you look the more you realize that the crystal is actually being lit up from behind.  The crystal seems to be the power source or something to the machine that is Jade.  A construct unlike any other you've ever seen or known.  Jade watches you wordlessly as you examine her insides, but grabs your hand with a firm grip when if attempt to prod inside.
+* As you start heading downstairs, you realize that the place is in lockdown.  Youve seen it before but never has it been such a quiet subtle lockdown.  What's going on here?
+  * It's about at this time that you feel that a powerful magic is being cast on the vicinity of Unknown's room, as you feel the magic filling the air.
+* As you enter Unknown's room, you see long metalic poles making up a bamboo-forest-like dome at the center of the room that bursts out and connects to every wall and angle such that it looks like a seed growing in every direction with a density and multitude of branches such that not much is seeable throughout room.
+  * Looking through the poles you see not 1, not 2, but 4 obelisks setup in a square shape.
+  * You see the poles swaying vaguely as you try to push through, and they begin blocking your entrance.
+  * Looking up, you see what they're attatched to, Unknown, the clan member you knew the least about, has metalic pole-like limbs coming from its back numbering in the hundreds.  Unknown is casting the spell, and right now he controls every one of the poles in this room.  Roll Initiative.
+  
+* With Unknown gone, a moment passes until you hear one, no 3, no, 9, 13, over 20 explosions and counting as the entire place is shaking and breaking apart.  You both look to the open door and see the end of the hallway caving in coming towards your room.  You both have one action each before the room caves, what would you like to do.
+
+### Castle Town
+* You appear in a room.  Walls made of wood and modest furnishings clue you in to it being a house.  A cabin.
+* You hear much noise outside, like those of explosions and spells.
+* You're in a cabin south of Castle Town just on the edge of a small forest.  You passed this location on the way to Ryul-Ryal, which you never actually visited.
+* As you crest the hill, you see the castle town surrounded by hundreds of warriors, trebuchets, spellcasters and more collide on the east and south side of town.  The various mercenaries that the king had called upon facing the overwhelming numbers of the attacking elvan army.  
+* The gate, which seems to have been sabotaged early on as only one of the doors is closed while the other is filled with people attempting to get through, some of which seem to be succeeding, while the gate's warriors have chosen not to chase those who make it through or else leave the entrance unfiltered.
+* As you approach the town, you feel a sudden weight across your whole body.  You find yourself unable to fly more than 10ft off the ground, pulled down by a strange gravity.  Spells this size and effectiveness must've been cast by a strong magic user, but this one seems like it could be possibly defensive.  
+* The town, as you enter, is eerily quiet.  Houses are boarded up, steets and street stands are all but abandoned of non-soldiers, and the only signs of damage appear to be the occasional spell or trebuchet mis-fire that hit some of the eastern houses.  The roads, though, are filled with soldiers fighting with a broad assortment of mercenaries, trying their best to keep them from getting through.  The town has three main roads, as mentioned before, along with battlements along the wall.  The central road is filled with the most combat, and you're sure to get sucked in to it if you went that way.  The eastern side has some fighting, but is mostly on fire and getting hit by stray shots.  The eastern battlements is even worse, but at least has no enemy soldiers up there yet.  The western path is actually pretty quiet from this angle, being furthest from the battle, though it might be a trap set by either side in this situation.  The West battlements is filled with soldiers as well, or at least they should be there, a large section of the wall seems to be missing soldiers altogether from this angle.
+
+
+
 
 ## Unimportant Board Members
 ### U-N1M (U)
