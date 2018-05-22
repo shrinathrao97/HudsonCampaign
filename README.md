@@ -1,5 +1,3 @@
 # HudsonCampaign
-Files for our dnd campaign. If new please read up on the commands:
-- git commit
-- git push
-- git pull
+Djentlemen it's been an honor and damn that ending... Thanks for a fun 3ish years, it was an honor
+- Kshaya, God Slayer, Call sign Mamba
