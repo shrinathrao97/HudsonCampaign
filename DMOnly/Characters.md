@@ -27,6 +27,9 @@
     * Was separated from Boron (still at the camp), Snafu, Syrene, McRib (all teleported to the realm of fire and then the southern continent), and Smiff Niblin (Captured and left there), while being captured.
 
 
+# Cateline Mortolin
+
+
 ### Ch-tu
   * Location: The Natural Prison (Frozen Hell)
   * Thri-Kreen (Variant), Female
@@ -47,6 +50,9 @@
   * Young White Dragon, Female
   * Notes:
     * Tricked to enter the gorge by a group of paladins.  
+
+
+# Morren Mortolin
 
 
 ### Oscar Jerrial DECEASED
